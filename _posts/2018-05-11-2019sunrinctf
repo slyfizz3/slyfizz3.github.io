@@ -1,0 +1,63 @@
+---
+title: "2019 교내 모의해킹방어대회 "
+date: 2019-05-11 
+categories: write-up
+---
+
+친구 2명과 함께 교내 모의 해킹방어 대회에 나가서 REVERSING 1문제와 MISC 2문제를 풀어서 6등(2500점)으로 동상을 탓다.
+
+REVERSING
+
+canUmips
+
+예전에 mips hand-ray를 해본 경험이 있기때문에 어셈을 보자마자 어떤 로직인지 감이 와서 가장 빨리 풀수 있었다.
+"CD\\A][mQTX]]P\\YYl`eehdaadhmV"문자열을 한자리씩 key(0x10)과 xor한후 key를 1씩 증가시키면 된다.
+(대회 시작하자마자 퍼블먹어서 기분좋았다 ㅎㅎ)
+
+```python
+table="CD\\A][mQTX]]P\\YYl`eehdaadhmV"
+key=0x10
+print(''.join(chr(ord(table[i])^key+i)for i in range(len(table))))
+```
+FLAG:SUNRIN{FLAGFLAGFLAGFLAGFLAG}
+
+MISC
+
+QRCODE
+
+같이 나간 친구가 푼 문제로 그림판으로 QR 코드를 맞춰서 찍으면 된다.
+
+FLAG:SUNRIN{very easy qr code challenge}
+
+THE HISTORY OF TOM JONES
+
+같이 나간 친구가 푼 문제로 '{'다음에 오는 문자를 연결하면 플래그가 나온다.
+
+```python
+story='''                           
+
+  The introduction to the work, or bill of fare to the feast
+
+  An author ought to consider himself, not as a gentleman who gives
+a private or eleemosynary treat, but rather as one who keeps a
+public ordinary, at which all persons are welcome for their money.
+In the former case, it is well known that the entertainer provides
+what fare he pleases; and though this should be very indifferent,
+and utterly disagreeable to the taste of his company, they must not
+find any fault; nay, 
+                  .
+                  .
+                  .
+                  .
+                  .
+to those below them, that there is not a neighbour, a tenant, or a
+servant, who doth not most gratefully bless the day when Mr. Jones was
+married to his Sophia.
+'''
+flag=""
+for i in range(len(story)):
+	if story[i]=='{':
+		flag+=story[i+1]
+print("SUNRIN{"+flag+"}")
+```
+FLAG:SUNRIN{Y0u_4re_V3ry_Sm4rt!!}
