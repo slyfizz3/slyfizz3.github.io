@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "slyfizz3"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I love rev"
+  location         : "Republic of Korea"
+  email            : "min0308k@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
