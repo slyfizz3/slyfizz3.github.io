@@ -25,7 +25,7 @@ History(2019년 기준)
 
 주 분야:리버싱
 
-사용 닉네임:slyfizz,From z3 import *
+사용 닉네임:slyfizz,from slyfizz3 import *
 
 e-mail:min0308k@gmail.com
 
