@@ -1,42 +1,28 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "About Me"
 search: true
 ---
 
-History(2019년 기준)
+History(2019)
 
-2018.05.03 해킹 시작
+2018.05.03 hacking started
 
-2018.12.23 제 2회 rootctf 16등
+2018.12.23 2018 rootctf 16th
 
-2019.02.15 제 1회 trustctf 12등
+2019.02.15 2018 trustctf 12th
 
-2019.05.09 교내 모의 해킹 방어대회 동상
+2019.05.09 6th place, bronze Prize, In-School Hacking Contest
 
-이름:김종민
+age:18
 
-나이:18세
+hacking team:x
 
-소속팀:x
+school:sunrin internet highschool
 
-학교:선린 인터넷 고등학교
+Skills:reverse engineering,python
 
-주 분야:리버싱
-
-사용 닉네임:slyfizz,from slyfizz3 import *
+Nickname:slyfizz,from slyfizz3 import *
 
 e-mail:min0308k@gmail.com
-
-
-
- 
-
-
-
-
-
-
-
-
