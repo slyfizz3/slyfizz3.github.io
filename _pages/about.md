@@ -4,13 +4,13 @@ permalink: /about/
 author_profile: true
 ---
 -------------
-Name:Jong min Kim(김종민)
-Age:18
-Hacking team:x
-School:sunrin internet highschool
-Skills:reverse engineering,python
-Nickname:slyfizz,from slyfizz3 import *
-E-mail:min0308k@gmail.com
+Name:Jong min Kim(김종민) 
+Age:18 
+Hacking team:x 
+School:sunrin internet highschool 
+Skills:reverse engineering,python 
+Nickname:slyfizz,from slyfizz3 import * 
+E-mail:min0308k@gmail.com a
 -------------
 
 -------------
