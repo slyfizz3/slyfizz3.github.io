@@ -2,6 +2,7 @@
 title: "2018 layer7ctf WhatIsWrong"
 date: 2019-05-23
 categories: write-up
+tags:.net
 ---
 
 ```csharp
@@ -80,7 +81,7 @@ namespace WhatIsWrong
     }
 }
  ```
- layer7ctf 때 못풀었던 c#문제이다.그 당시에 write-up도 찾을 수 없었는데 지금 다시 분석해보니 aes암호화여서
+ layer7ctf 때 못풀었던 .net문제이다.그 당시에 write-up도 찾을 수 없었는데 지금 다시 분석해보니 aes암호화여서
  
  https://stackoverflow.com/questions/10168240/encrypting-decrypting-a-string-in-c-sharp
  
