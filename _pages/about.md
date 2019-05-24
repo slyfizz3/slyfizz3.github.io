@@ -1,8 +1,7 @@
 ---
-permalink: /about/
 title: "About me"
-excerpt: "About me"
-search: true
+permalink: /about/
+author_profile: true
 ---
 
 History(2019)
