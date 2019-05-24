@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 -------------
-Name:kim jong min(김종민)
+Name:Jong min Kim(김종민)
 Age:18
 Hacking team:x
 School:sunrin internet highschool
