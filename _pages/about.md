@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About me"
-excerpt: "Abou me"
+excerpt: "About me"
 search: true
 ---
 
