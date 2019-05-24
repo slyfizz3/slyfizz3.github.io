@@ -4,6 +4,8 @@ permalink: /about/
 author_profile: true
 ---
 
+-------------
+
 History(2019)
 
 2018.05.03 hacking started
@@ -14,6 +16,7 @@ History(2019)
 
 2019.05.09 6th place, bronze Prize, In-School Hacking Contest
 
+---------------
 age:18
 
 hacking team:x
