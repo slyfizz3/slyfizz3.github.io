@@ -4,19 +4,19 @@ permalink: /about/
 author_profile: true
 ---
 -------------
-name:kim jong min(김종민)
+Name:kim jong min(김종민)
 
-age:18
+Age:18
 
-hacking team:x
+Hacking team:x
 
-school:sunrin internet highschool
+School:sunrin internet highschool
 
 Skills:reverse engineering,python
 
 Nickname:slyfizz,from slyfizz3 import *
 
-e-mail:min0308k@gmail.com
+E-mail:min0308k@gmail.com
 
 -------------
 
