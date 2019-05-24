@@ -3,6 +3,22 @@ title: "About me"
 permalink: /about/
 author_profile: true
 ---
+-------------
+name:kim jong min(김종민)
+
+age:18
+
+hacking team:x
+
+school:sunrin internet highschool
+
+Skills:reverse engineering,python
+
+Nickname:slyfizz,from slyfizz3 import *
+
+e-mail:min0308k@gmail.com
+
+-------------
 
 -------------
 
@@ -17,14 +33,4 @@ History(2019)
 2019.05.09 6th place, bronze Prize, In-School Hacking Contest
 
 ---------------
-age:18
 
-hacking team:x
-
-school:sunrin internet highschool
-
-Skills:reverse engineering,python
-
-Nickname:slyfizz,from slyfizz3 import *
-
-e-mail:min0308k@gmail.com
