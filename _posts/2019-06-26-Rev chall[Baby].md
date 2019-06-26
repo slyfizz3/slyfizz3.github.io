@@ -1,7 +1,7 @@
 ---
 title: "Nanu's rev-chall"
 date: 2019-06-26
-categories: write-up
+categories: rev-chall
 tags: Baby
 ---
 
