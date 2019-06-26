@@ -3,7 +3,7 @@ title: "About me"
 permalink: /about/
 author_profile: true
 ---
-```
+```plain text
 Name:Jong min Kim(김종민) 
 
 Age:18 
@@ -19,7 +19,7 @@ Nickname:slyfizz,from slyfizz3 import *
 E-mail:min0308k@gmail.com
 ```
 
-```
+```plain text
 History(2019)
 
 2018.05.03 hacking started
