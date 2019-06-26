@@ -1,5 +1,5 @@
 ---
-title: "N4NU rev chall[Baby]"
+title: "N4NU rev chall"
 date: 2019-06-26
 categories:rev chall
 tags:Baby
