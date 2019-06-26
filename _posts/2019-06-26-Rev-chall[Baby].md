@@ -1,8 +1,8 @@
 ---
-title: "2018 layer7ctf WhatIsWrong"
-date: 2019-05-23
-categories: write-up
-tags: .net
+title: "N4NU-rev-chall[Baby]"
+date: 2019-06-26
+categories: rev-chall
+tags:Baby
 ---
 
 probs are from https://github.com/N4NU/Reversing-Challenges-List
