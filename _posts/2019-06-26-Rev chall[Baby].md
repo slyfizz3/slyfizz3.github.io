@@ -1,7 +1,7 @@
 ---
-title: "N4NU rev chall"
+title: "N4NU"
 date: 2019-06-26
-categories:rev chall
+categories:rev
 tags:Baby
 ---
 
