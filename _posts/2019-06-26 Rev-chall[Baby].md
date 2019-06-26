@@ -6,10 +6,10 @@ tags:Baby
 ---
 
 https://github.com/N4NU/Reversing-Challenges-List
-Baby probs문제들을 풀고 write-up 포스팅 하려고한다.
+Baby probs 
 
-----dMd----
-'''python
+-----dMd-------
+```python
 import hashlib
 def fixstr(a):
     return a.encode('utf8')
@@ -19,11 +19,11 @@ if md5("b781cbb29054db12f88f08c6e161c199")=="780438d5b6e29db0898bc4f0225935c0":
     print("valid key")
 else:
     print("invalid key")
-'''
+```
 key:b781cbb29054db12f88f08c6e161c199
 
-----SRM----
-'''python
+------SRM-------
+```python
 from z3 import *
 arr=[Int("arr%i"%i) for i in range(16)]
 s=Solver()
@@ -49,5 +49,5 @@ flag=""
 for i in range(len(arr)):
 	flag+=chr(int(str(m.evaluate(arr[i]))))
 print(flag)
-''' 
+```
 key:CZ9dmq4c8g9G7bAX
