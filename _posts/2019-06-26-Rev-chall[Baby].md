@@ -8,7 +8,7 @@ tags:Baby
 probs are from https://github.com/N4NU/Reversing-Challenges-List
 [Baby probs] 
 
------dMd-------
+dMd
 ```python
 import hashlib
 def fixstr(a):
@@ -22,7 +22,7 @@ else:
 ```
 key:b781cbb29054db12f88f08c6e161c199
 
-------SRM-------
+SRM
 ```python
 from z3 import *
 arr=[Int("arr%i"%i) for i in range(16)]
