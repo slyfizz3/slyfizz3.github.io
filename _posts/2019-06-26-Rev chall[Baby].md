@@ -61,8 +61,9 @@ for i in range(len(arr)):
 	flag+=chr(int(str(m.evaluate(arr[i]))))
 print(flag)
 ```
-key:CZ9dmq4c8g9G7bAX
 
 ![SRM](../image/Rev-chall/Baby/SRM.png)
+
+key:CZ9dmq4c8g9G7bAX
 
 -----
