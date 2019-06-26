@@ -1,7 +1,7 @@
 ---
 title: "N4NU"
 date: 2019-06-26
-categories:rev
+categories:write-up
 tags:Baby
 ---
 
