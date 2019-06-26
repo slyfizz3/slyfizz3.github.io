@@ -11,9 +11,10 @@ probs are from
 https://github.com/N4NU/Reversing-Challenges-List
 
 
-[Baby probs] 
+[Baby probs]
+-------------------------------------
+dMd
 
------dMd------
 ```python
 import hashlib
 def fixstr(a):
@@ -26,8 +27,10 @@ else:
     print("invalid key")
 ```
 key:b781cbb29054db12f88f08c6e161c199
+--------------------------------------
+--------------------------------------
+SRM
 
-----SRM-----
 ```python
 from z3 import *
 arr=[Int("arr%i"%i) for i in range(16)]
@@ -56,3 +59,4 @@ for i in range(len(arr)):
 print(flag)
 ```
 key:CZ9dmq4c8g9G7bAX
+-----------------------------
