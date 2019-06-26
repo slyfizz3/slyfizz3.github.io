@@ -1,5 +1,5 @@
 ---
-title: "Nanu's rev-chall[Baby]"
+title: "N4NU's rev-chall[Baby]"
 date: 2019-06-26
 categories: Rev-chall
 tags: Baby
@@ -62,5 +62,7 @@ for i in range(len(arr)):
 print(flag)
 ```
 key:CZ9dmq4c8g9G7bAX
+
+[image]
 
 -----
