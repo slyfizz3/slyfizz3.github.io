@@ -1,7 +1,7 @@
 ---
-title: "Nanu's rev-chall"
+title: "Nanu's rev-chall[Baby]"
 date: 2019-06-26
-categories: rev-chall
+categories: Rev-chall
 tags: Baby
 ---
 
