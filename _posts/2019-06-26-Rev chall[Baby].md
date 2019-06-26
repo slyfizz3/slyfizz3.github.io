@@ -62,7 +62,7 @@ for i in range(len(arr)):
 print(flag)
 ```
 
-![SRM](../image/Rev-chall/Baby/SRM.png)
+![SRM](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/SRM.png)
 
 key:CZ9dmq4c8g9G7bAX
 
