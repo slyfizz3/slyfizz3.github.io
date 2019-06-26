@@ -6,7 +6,7 @@ tags: Baby
 ---
 
 probs are from
-[N4NU](https://github.com/N4NU/Reversing-Challenges-List)[Baby probs]
+[N4NU rev-chall[Baby]](https://github.com/N4NU/Reversing-Challenges-List/tree/master/Baby)
 
 -------------------------------------
 
