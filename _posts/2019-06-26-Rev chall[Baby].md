@@ -2,7 +2,7 @@
 title: "Nanu's rev-chall"
 date: 2019-06-26
 categories: write-up
-tags: .net
+tags: Baby
 ---
 
 probs are from https://github.com/N4NU/Reversing-Challenges-List
