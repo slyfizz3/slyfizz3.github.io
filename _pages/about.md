@@ -17,7 +17,6 @@ Skills:reverse engineering,python
 Nickname:slyfizz,from slyfizz3 import * 
 
 E-mail:min0308k@gmail.com
-
 -------------
 -------------
 History(2019)
@@ -29,6 +28,5 @@ History(2019)
 2019.02.15 2018 trustctf 12th
 
 2019.05.09 6th place, bronze Prize, In School Hacking Contest
-
 ---------------
 
