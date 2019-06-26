@@ -25,6 +25,8 @@ if md5("b781cbb29054db12f88f08c6e161c199")=="780438d5b6e29db0898bc4f0225935c0":
 else:
     print("invalid key")
 ```
+![dMd](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/dMd.png)
+
 key:b781cbb29054db12f88f08c6e161c199
 
 -----
@@ -64,3 +66,31 @@ print(flag)
 key:CZ9dmq4c8g9G7bAX
 
 -----
+
+Serial
+
+```python
+def sub9b(x):
+	return 0x9b-x
+def subb4(x):
+	return 0xb4-x
+def subaa(x):
+	return 0xaa-x
+
+arr=[0x45,0x5a,0x39,0x64,0x6d,0x71,0x34,0x63]
+result=[]
+for i in range(len(arr)):
+	result.append(sub9b(arr[i]))
+result=result[::-1]
+result[3]=subb4(arr[4])
+result[2]=subaa(arr[5])
+print(''.join(chr(i)for i in arr+result))
+```
+
+![Serial](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/Serial.png)
+
+key:EZ9dmq4c8g9G7bAV
+
+-----
+
+
