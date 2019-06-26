@@ -5,12 +5,8 @@ categories: Rev-chall
 tags: Baby
 ---
 
-probs are from 
-
-[N4NU](https://github.com/N4NU/Reversing-Challenges-List)
-
-
-[Baby probs]
+probs are from
+[N4NU](https://github.com/N4NU/Reversing-Challenges-List)[Baby probs]
 
 -------------------------------------
 
