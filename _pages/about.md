@@ -12,7 +12,9 @@ Hacking team:x
 
 School:sunrin internet highschool 
 
-Skills:reverse engineering,python 
+Language:C, Python, Java, Assembly
+
+Main technology:Reverse Engineering
 
 Nickname:slyfizz,from slyfizz3 import * 
 
