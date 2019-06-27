@@ -133,7 +133,8 @@ User Text Segment [00400000]..[00440000]
 just hand-ray mips asm!!!!
 
 ```python
- for i in range(len(arr)):
+arr="IVyN5U3X)ZUMYCs"
+for i in range(len(arr)):
 	print(chr(ord(arr[i])^i),end="")
 ```
 
