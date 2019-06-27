@@ -12,7 +12,7 @@ Hacking team:x
 
 School:sunrin internet highschool 
 
-Language:C, Python, Java, Assembly
+Language:C,Python,Java,Assembly
 
 Main technology:Reverse Engineering
 
