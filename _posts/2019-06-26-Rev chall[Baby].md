@@ -139,5 +139,16 @@ just hand-ray mips asm!!!!
 
 key:IW{M1P5_!S_FUN}
 
+-----
 
+File_Checker
+
+```python
+table=[
+4846,4832,4796,4849,4846,4843,4850,4824,
+4852,4847,4818,4852,4844,4822,4794]
+for i in table:
+  print(chr(4919-i),end="")
+```
+key:IW{FILE_CHeCKa}
 
