@@ -1,8 +1,8 @@
 ---
-title: "analyzing qemu-arm-static"
-date: 2019-06-29
-categories: Tip
-tags: ARM qemu pwntools
+title: "N4NU's Rev-chall[Baby]"
+date: 2019-06-26
+categories: Rev-chall
+tags: Baby MIPS ARM
 ---
 
 In my Ubuntu, the method of analysis using qemu-static is slightly different from the general analysis method, so I make a note on my blog
