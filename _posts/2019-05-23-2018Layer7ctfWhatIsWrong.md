@@ -6,7 +6,6 @@ tags: .net
 ---
 
 ```csharp
-//flag:LAYER7{MVVM Master}
 using System;
 using System.Text;
 using System.Security.Cryptography;
@@ -76,4 +75,6 @@ namespace WhatIsWrong
  
  [이곳](https://stackoverflow.com/questions/10168240/encrypting-decrypting-a-string-in-c-shar)에서복호화 코드를 찾아서 분석해서 얻은 키를 넣으니 슥-삭하고 플래그가 나왔다.
  
+```
  플래그:LAYER7{MVVM Master}
+```
