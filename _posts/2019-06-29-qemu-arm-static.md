@@ -28,6 +28,7 @@ sudo apt-get install -y  gcc-multilib-powerpc-linux-gnu;sudo apt-get install -y 
 sudo apt-get install -y  gcc-multilib-s390x-linux-gnu;sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
 ```
 -----
+
 After install
 -----
 
