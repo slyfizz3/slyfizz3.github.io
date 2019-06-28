@@ -2,7 +2,7 @@
 title: "qemu-arm-static"
 date: 2019-06-29
 categories: Tip
-tag : ARM qemu pwntools
+tags : ARM qemu pwntools
 ---
 
 In my Ubuntu, the method of analysis using qemu-static is slightly different from the 
