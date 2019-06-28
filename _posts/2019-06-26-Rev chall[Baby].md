@@ -192,12 +192,13 @@ flag=flag.replace("\n","")
 print "Flag:"+flag
 ```
 
-(using qemu-static to analyze ARM binary)[https://slyfizz3.github.io/tip/qemu-arm-static/]
+[using qemu-static to analyze ARM binary](https://slyfizz3.github.io/tip/qemu-arm-static/)
 
 ```
 Flag:IW{S.E.R.V.E.R>=F:A:R:M}
 ```
 -----
 
+```
 Still editing....
-
+```
