@@ -2,7 +2,7 @@
 title: "qemu"
 date: 2019-06-29
 categories: Rev-chall
-tags: qemu
+tags: .net
 ---
 
 In my Ubuntu, the method of analysis using qemu-static is slightly different from the 
