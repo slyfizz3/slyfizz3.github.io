@@ -192,8 +192,8 @@ flag=flag.replace("\n","")
 print "Flag:"+flag
 ```
 
-debugging Arm binary using qemu-mips-static
-using qemu to analyze ARM binary[qemu-user-static]
+(using qemu-static to analyze ARM binary)[https://slyfizz3.github.io/tip/qemu-arm-static/]
+
 ```
 Flag:IW{S.E.R.V.E.R>=F:A:R:M}
 ```
