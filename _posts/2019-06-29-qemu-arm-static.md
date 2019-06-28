@@ -1,5 +1,5 @@
 ---
-title: "qemu-arm-static"
+title: "using qemu-static to analyze ARM binary"
 date: 2019-06-29
 categories: Tip
 tags : ARM qemu pwntools
@@ -9,7 +9,9 @@ In my Ubuntu, the method of analysis using qemu-static is slightly different fro
 
 general analysis method, so I make a note on my blog
 
+install
 
+-----
 install qemu,gdb-multiarch
 
 ```
@@ -26,8 +28,9 @@ sudo apt-get install -y  gcc-multilib-mips64el-linux-gnuabi64;sudo apt-get insta
 sudo apt-get install -y  gcc-multilib-powerpc-linux-gnu;sudo apt-get install -y  gcc-multilib-powerpc64-linux-gnu;
 sudo apt-get install -y  gcc-multilib-s390x-linux-gnu;sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
 ```
-
+-----
 after install
+-----
 
 run arm binary
 
@@ -53,3 +56,4 @@ pwntools using qemu
 from pwn import *
 p=process(["qemu-arm-static","-L","/usr/arm-linux-gnueabihf","./binary","parameter"])
 ```
+-----
