@@ -5,7 +5,9 @@ categories: Tip
 tags : ARM qemu pwntools
 ---
 
-In my Ubuntu, the method of analysis using qemu-static is slightly different from the general analysis method, so I make a note on my blog
+In my Ubuntu, the method of analysis using qemu-static is slightly different from the general analysis method, 
+
+so I make a note on my blog
 
 
 Install
