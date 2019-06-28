@@ -32,9 +32,9 @@ else:
 ```
 Flag:b781cbb29054db12f88f08c6e161c199
 ```
------
 
 SRM
+-----
 
 ```python
 from z3 import *
@@ -70,9 +70,8 @@ print(flag)
 Flag:CZ9dmq4c8g9G7bAX
 ```
 
------
-
 Serial
+-----
 
 ```python
 def sub9b(x):
@@ -98,10 +97,9 @@ print(''.join(chr(i)for i in arr+result))
 Flag:EZ9dmq4c8g9G7bAV
 ```
 
------
-
 
 SPIM
+-----
 
 ```
 #"IVyN5U3X)ZUMYCs"
@@ -148,9 +146,9 @@ for i in range(len(arr)):
 ```
 Flag:IW{M1P5_!S_FUN}
 ```
------
 
 File_Checker
+-----
 
 ```python
 table=[
@@ -163,9 +161,9 @@ for i in table:
 ```
 Flag:IW{FILE_CHeCKa}
 ```
------
 
 ServerfARM
+-----
 
 ```python
 from pwn import *
