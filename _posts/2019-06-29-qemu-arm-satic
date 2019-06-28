@@ -30,7 +30,9 @@ run arm binary
 ```
 qemu-arm-static -L /usr/arm-linux-gnueabihf ./binary parameter
 ```
+
 gdb analyze
+
 ```
 local:
     qemu-arm-static -L /usr/arm-linux-gnueabihf -g 31338 ./ parameter
@@ -43,7 +45,7 @@ in gdb:
 
 pwntools using qemu
 
-'''python
+```python
 from pwn import *
 p=process(["qemu-arm-static","-L","/usr/arm-linux-gnueabihf","분석할 바이너리","인자"])
-'''
+```
