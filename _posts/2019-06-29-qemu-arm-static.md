@@ -14,27 +14,24 @@ install qemu,gdb-multiarch
 ```
 sudo apt-get install qemu-mips-static
 sudo apt-get install gdb-multiarch
-
 ```
 
 install gcc architecture
 
 ```
-
 sudo apt-get install -y  gcc-multilib-arm-linux-gnueabi;sudo apt-get install -y  gcc-multilib-arm-linux-gnueabihf;
 sudo apt-get install -y  gcc-multilib-mips-linux-gnu;sudo apt-get install -y  gcc-multilib-mips64-linux-gnuabi64;
 sudo apt-get install -y  gcc-multilib-mips64el-linux-gnuabi64;sudo apt-get install -y  gcc-multilib-mipsel-linux-gnu;
 sudo apt-get install -y  gcc-multilib-powerpc-linux-gnu;sudo apt-get install -y  gcc-multilib-powerpc64-linux-gnu;
 sudo apt-get install -y  gcc-multilib-s390x-linux-gnu;sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
-
 ```
+
+after install,
 
 run arm binary
 
 ```
-
 qemu-arm-static -L /usr/arm-linux-gnueabihf ./binary parameter
-
 ```
 
 gdb analyze
