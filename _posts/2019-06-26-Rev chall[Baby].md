@@ -2,7 +2,7 @@
 title: "N4NU's Rev-chall[Baby]"
 date: 2019-06-26
 categories: Rev-chall
-tags: Baby MIPS
+tags: Baby MIPS Arm
 ---
 I will solve all [N4NU's Rev-chall list](https://pastebin.com/q7LGi8w5)
 
@@ -153,3 +153,39 @@ for i in table:
 ```
 key:IW{FILE_CHeCKa}
 
+-----
+
+ServerfARM
+
+```python
+from pwn import *
+import string
+#context.log_level = "debug"
+p=process(["qemu-arm-static","-L","/usr/arm-linux-gnueabihf","./serverfarm",'f','i','z','z'])
+argv=["#"]
+for i in string.printable:
+	for j in string.printable:
+		if ord(i)%ord(j)==65:
+			argv.append(i+j)
+			break
+argv.append("1337")
+argv.append("A")
+print "Key:"+' '.join(i for i in argv)
+flag=""
+for i in range(4):
+	p.sendline(argv[i])
+	if i==3:
+		p.recvuntil(":")
+	else:
+		p.recvuntil("block:")
+	flag+=p.recvuntil("\n")
+flag=flag.replace("\n","")
+print "Flag:"+flag
+```
+
+debugging Arm binary using qemu-mips-static
+
+Flag:IW{S.E.R.V.E.R>=F:A:R:M}
+
+-----
+Still editing....
