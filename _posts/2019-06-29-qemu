@@ -1,8 +1,8 @@
 ---
 title: "N4NU's Rev-c12"
-date: 2019-06-26
+date: 2019-06-29
 categories: Rev-chall
-tags: Baby MIPS ARM
+tags: qemu
 ---
 
 In my Ubuntu, the method of analysis using qemu-static is slightly different from the general analysis method, so I make a note on my blog
