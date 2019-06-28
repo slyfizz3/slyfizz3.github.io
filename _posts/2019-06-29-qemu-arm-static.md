@@ -9,8 +9,8 @@ In my Ubuntu, the method of analysis using qemu-static is slightly different fro
 
 general analysis method, so I make a note on my blog
 
-install
 
+Install
 -----
 install qemu,gdb-multiarch
 
