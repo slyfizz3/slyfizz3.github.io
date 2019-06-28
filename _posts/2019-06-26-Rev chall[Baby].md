@@ -2,7 +2,7 @@
 title: "N4NU's Rev-chall[Baby]"
 date: 2019-06-26
 categories: Rev-chall
-tags: Baby MIPS Arm
+tags: Baby MIPS ARM
 ---
 I will solve all [N4NU's Rev-chall list](https://pastebin.com/q7LGi8w5)
 
