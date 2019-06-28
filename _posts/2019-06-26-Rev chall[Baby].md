@@ -6,6 +6,7 @@ tags: Baby MIPS Arm
 ---
 I will solve all [N4NU's Rev-chall list](https://pastebin.com/q7LGi8w5)
 
+solved[Baby](6/11)
 
 probs are from
 [N4NU rev-chall[Baby]](https://github.com/N4NU/Reversing-Challenges-List/tree/master/Baby)
