@@ -6,6 +6,7 @@ tags : ARM qemu pwntools
 ---
 
 In my Ubuntu, the method of analysis using qemu-static is slightly different from the 
+
 general analysis method, so I make a note on my blog
 
 
@@ -26,7 +27,7 @@ sudo apt-get install -y  gcc-multilib-powerpc-linux-gnu;sudo apt-get install -y 
 sudo apt-get install -y  gcc-multilib-s390x-linux-gnu;sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
 ```
 
-after install,
+after install
 
 run arm binary
 
