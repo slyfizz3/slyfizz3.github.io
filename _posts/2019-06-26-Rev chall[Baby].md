@@ -97,7 +97,7 @@ key:EZ9dmq4c8g9G7bAV
 
 SPIM
 
-```asm
+```
 #"IVyN5U3X)ZUMYCs"
 
 User Text Segment [00400000]..[00440000]
