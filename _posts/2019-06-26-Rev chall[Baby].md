@@ -28,8 +28,9 @@ else:
 ```
 ![dMd](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/dMd.png)
 
-key:b781cbb29054db12f88f08c6e161c199
-
+```
+Flag:b781cbb29054db12f88f08c6e161c199
+```
 -----
 
 SRM
@@ -64,7 +65,9 @@ print(flag)
 
 ![SRM](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/SRM.png)
 
-key:CZ9dmq4c8g9G7bAX
+```
+Flag:CZ9dmq4c8g9G7bAX
+```
 
 -----
 
@@ -90,7 +93,9 @@ print(''.join(chr(i)for i in arr+result))
 
 ![Serial](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/Serial.png)
 
-key:EZ9dmq4c8g9G7bAV
+```
+Flag:EZ9dmq4c8g9G7bAV
+```
 
 -----
 
@@ -131,7 +136,7 @@ User Text Segment [00400000]..[00440000]
 [0040006c] 03e00008  jr $31               ; 32: jr $ra 
 ```
 
-just hand-ray mips asm!!!!
+just Hand-ray mips asm!!!!
 
 ```python
 arr="IVyN5U3X)ZUMYCs"
@@ -139,8 +144,9 @@ for i in range(len(arr)):
 	print(chr(ord(arr[i])^i),end="")
 ```
 
-key:IW{M1P5_!S_FUN}
-
+```
+Flag:IW{M1P5_!S_FUN}
+```
 -----
 
 File_Checker
@@ -152,8 +158,10 @@ table=[
 for i in table:
   print(chr(4919-i),end="")
 ```
-key:IW{FILE_CHeCKa}
 
+```
+Flag:IW{FILE_CHeCKa}
+```
 -----
 
 ServerfARM
@@ -185,10 +193,11 @@ print "Flag:"+flag
 ```
 
 debugging Arm binary using qemu-mips-static
-
+using qemu to analyze ARM binary[qemu-user-static]
+```
 Flag:IW{S.E.R.V.E.R>=F:A:R:M}
-
+```
 -----
-```
+
 Still editing....
-```
+
