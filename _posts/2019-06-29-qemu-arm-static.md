@@ -1,7 +1,8 @@
 ---
-title: "moved blog"
-date: 2019-05-10 
-categories: others
+title: "qemu-arm-static"
+date: 2019-06-29
+categories: Tip
+tag : ARM qemu pwntools
 ---
 
 In my Ubuntu, the method of analysis using qemu-static is slightly different from the 
