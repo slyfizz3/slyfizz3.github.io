@@ -39,7 +39,7 @@ gdb analyze
 
 ```
 local:
-    qemu-arm-static -L /usr/arm-linux-gnueabihf -g 31338 ./ parameter
+    qemu-arm-static -L /usr/arm-linux-gnueabihf -g 31338 ./binary parameter
 
 in gdb:
     gdb-multiarch
