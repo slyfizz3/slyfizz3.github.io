@@ -279,7 +279,7 @@ You can have a flag if you put them together and run the app.
 ![Android_App](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/app.png)
 
 ```
-Sharif_CTF{833489ef285e6fa80690099efc5d9c9d}
+Flag:Sharif_CTF(833489ef285e6fa80690099efc5d9c9d)
 ```
 
 ```
