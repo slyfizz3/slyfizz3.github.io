@@ -6,7 +6,7 @@ tags: Baby MIPS ARM
 ---
 I will solve all [N4NU's Rev-chall list](https://pastebin.com/q7LGi8w5)
 
-I solved all (Baby) probs!!
+I solved all [Baby] probs!!
 
 probs are from
 [N4NU rev-chall[Baby]](https://github.com/N4NU/Reversing-Challenges-List/tree/master/Baby)
@@ -262,8 +262,26 @@ you can get Flag
 Flag:ASIS{hi_all_w31c0m3_to_ASISCTF}
 ```
 
+Android_App
 -----
 
+Extracting apps using apktool
+
 ```
-Still editing....
+apktool d Sharif_CTF.apk
+```
+
+open lib/arm/eabi/libadnjni.so, ou can see hard-coded characters. 
+
+You can have a flag if you put them together and run the app.
+
+
+![Android_App](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/Android_app.png)
+
+```
+Sharif_CTF{833489ef285e6fa80690099efc5d9c9d}
+```
+
+```
+All solved!!
 ```
