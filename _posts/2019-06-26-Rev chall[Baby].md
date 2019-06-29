@@ -245,7 +245,20 @@ print(''.join(chr(i)for i in table))
 Flag:Did_you_like_signals?
 ```
 
+warm_up
+-----
 
+
+```c
+typedef long int int64_t;
+```
+
+if you add this script to given c source and compile,
+you can get Flag
+
+```
+Flag:ASIS{hi_all_w31c0m3_to_ASISCTF} From ASIS With Love <3
+```
 
 -----
 
