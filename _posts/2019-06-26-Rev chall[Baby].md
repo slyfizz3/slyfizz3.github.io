@@ -6,7 +6,7 @@ tags: Baby MIPS ARM
 ---
 I will solve all [N4NU's Rev-chall list](https://pastebin.com/q7LGi8w5)
 
-solved (Baby)[6/11]
+solved (Baby)[9/11]
 
 probs are from
 [N4NU rev-chall[Baby]](https://github.com/N4NU/Reversing-Challenges-List/tree/master/Baby)
@@ -196,6 +196,57 @@ print "Flag:"+flag
 ```
 Flag:IW{S.E.R.V.E.R>=F:A:R:M}
 ```
+
+Matriochka_-_Step_1
+-----
+
+```
+Flag:Much_secure__So_safe__Wow
+```
+
+Matriochka_-_Step_2
+-----
+
+```python
+from z3 import *
+arr=[Int('a%i'%i) for i in range(11)]
+s=Solver()
+s.add(42 * (len(arr) + 1) == 504)
+s.add(arr[0] == 80 )
+s.add( 2 *arr[3] == 200 )
+s.add(arr[0] + 16 ==arr[6] - 16 )
+v4 =arr[5]
+s.add(v4 == 9 * len(arr) - 4 )
+s.add(arr[1] ==arr[7] )
+s.add(arr[1] ==arr[10] )
+s.add(arr[1] - 17 == arr[0] )
+s.add(arr[3] ==arr[9] )
+s.add(arr[4] == 105 )
+s.add(arr[2] -arr[1] == 13 )
+s.add(arr[8] -arr[7] == 13 )
+print(s.check())
+m=s.model()
+print ("Flag:"+''.join(chr(int(str(m.evaluate(arr[i]))))for i in range(11)))
+```
+
+```
+Flag:Pandi_panda
+```
+
+Matriochka_-_Step_3
+-----
+
+```python
+table=[68,105,100,95,121,111,117,95,108,105,107,101,95,115,105,103,110,97,108,115,63,]
+print(''.join(chr(i)for i in table))
+```
+
+```
+Flag:Did_you_like_signals?
+```
+
+
+
 -----
 
 ```
