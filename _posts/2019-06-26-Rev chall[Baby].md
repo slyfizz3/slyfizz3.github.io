@@ -6,7 +6,7 @@ tags: Baby MIPS ARM
 ---
 I will solve all [N4NU's Rev-chall list](https://pastebin.com/q7LGi8w5)
 
-solved (Baby)[9/11]
+solved (Baby)[10/11]
 
 probs are from
 [N4NU rev-chall[Baby]](https://github.com/N4NU/Reversing-Challenges-List/tree/master/Baby)
@@ -255,6 +255,8 @@ typedef long int int64_t;
 
 if you add this script to given c source and compile,
 you can get Flag
+
+![warm_up](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/warmup.png)
 
 ```
 Flag:ASIS{hi_all_w31c0m3_to_ASISCTF} From ASIS With Love <3
