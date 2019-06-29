@@ -259,7 +259,7 @@ you can get Flag
 ![warm_up](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Rev-chall/Baby/warmup.png)
 
 ```
-Flag:ASIS{hi_all_w31c0m3_to_ASISCTF} From ASIS With Love <3
+Flag:ASIS{hi_all_w31c0m3_to_ASISCTF}
 ```
 
 -----
