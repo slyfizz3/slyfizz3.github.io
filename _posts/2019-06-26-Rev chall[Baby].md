@@ -11,7 +11,7 @@ probs are from
 
 
 ```
-I solved all [Baby] probs!!
+I solved all 11 [Baby] probs!!
 ```
 
 -------------------------------------
