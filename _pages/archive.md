@@ -1,6 +1,6 @@
 ---
 title: "archive"
-layout: archive-taxonomy
+layout: archives
 permalink: /archive/
 author_profile: false
 ---
