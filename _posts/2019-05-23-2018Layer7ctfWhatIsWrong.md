@@ -5,6 +5,10 @@ categories: write-up
 tags: .net
 ---
 
+```
+layer7ctf 때 못풀었던 .net문제이다.
+```
+
 ```csharp
 using System;
 using System.Text;
@@ -72,11 +76,7 @@ namespace WhatIsWrong
 }
  ```
  
- ```
- layer7ctf 때 못풀었던 .net문제이다.그 당시에 write-up도 찾을 수 없었는데 지금 다시 분석해보니 aes암호화여서
- 
- [이곳](https://stackoverflow.com/questions/10168240/encrypting-decrypting-a-string-in-c-shar)에서복호화 코드를 찾아서 분석해서 얻은 키를 넣으니 슥-삭하고 플래그가 나왔다.
- ```
+지금 다시 분석해보니 aes암호화여서[이곳](https://stackoverflow.com/questions/10168240/encrypting-decrypting-a-string-in-c-shar)에서복호화 코드를 찾아서 분석해서 얻은 키를 넣으니 슥-삭하고 플래그가 나왔다.
  
 ```
  Flag:LAYER7{MVVM Master}
