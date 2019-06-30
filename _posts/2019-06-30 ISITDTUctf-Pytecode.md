@@ -233,9 +233,9 @@ flag[23]=ord("3")
 count=2441
 for i in range(len(flag)):
 	count-=flag[i]
-for i in range(ord("0"),ord("9")+1,1):
+for i in range(ord("0"),ord("9")+1):
 	check=1
-	for j in range(2,5,1):
+	for j in range(2,5):
 		if i%j!=0:
 			check=0
 	if check:
