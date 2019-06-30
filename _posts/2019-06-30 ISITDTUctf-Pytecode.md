@@ -202,7 +202,7 @@ Ch3cking func:
 ```
 
 ```
-해석한 내용을 바탕으로 코드를 짜면된다.
+이런식으로 hand-ray해준후 해석한 내용을 바탕으로 코드를 짜면된다.
 ```
 
 ```python
@@ -248,7 +248,8 @@ print(''.join(chr(i)for i in flag))
 Flag:ISITDTU{1_d0nT_L1k3_b:t3_C0d3}
 ```
 
+혼자 ctf하려니 힘이 안난다아아~
 
-혼자 ctf하려니 힘이 안난다아아아~
 ctf 같이 하실분 메일 주세요...
+
 rcercerc3@gmail.com
