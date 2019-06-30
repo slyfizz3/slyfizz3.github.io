@@ -6,7 +6,7 @@ tags : Bytecode Python
 ---
 
 ```
-파이썬 바이트 코드 문제는 처음 접해봐서 구글링을 시도하다가 그냥 분석해서 풀었다.
+파이썬 바이트 코드 문제는 처음 접해봤는데 천천히 분석 풀었다.
 ```
 
 ```
@@ -50,7 +50,7 @@ Ch3cking func:
              72 COMPARE_OP               3 (!=)
              75 POP_JUMP_IF_FALSE       88   => flag[-1]-2==flag[7]
 
- 10     >>   78 LOAD_GLOBAL              1 (F41l)
+ 10     >>   78 LOAD_GLOBAL             1 (F41l)
              81 CALL_FUNCTION            0
              84 POP_TOP             
              85 JUMP_FORWARD           752 (to 840)
@@ -249,6 +249,6 @@ Flag:ISITDTU{1_d0nT_L1k3_b:t3_C0d3}
 ```
 
 
-혼자 ctf하려니 힘이 안난다아아아아~
+혼자 ctf하려니 힘이 안난다아아아~
 ctf 같이 하실분 메일 주세요...
-min0308k@naver.com
+rcercerc3@gmail.com
