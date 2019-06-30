@@ -202,50 +202,46 @@ Ch3cking func:
 ```
 
 ```
-이런식으로 적당히 해석한 후에 z3로 슥-삭했다.
+해석한 내용을 바탕으로 코드를 짜면된다.
 ```
 
 ```python
-from z3 import *
-arr=[Int("a%i"%i)for i in range(30)]
-s=Solver()
+flag=[0]*30
 one="ISITDTU"
 two="d0nT"
-s.add(arr[0]+52==arr[-1])
-s.add(arr[-1]-2==arr[7])
-for i in range(10,10+len(two),  1):
-	s.add(arr[i]==ord(two[i-10]))
 for i in range(len(one)):
-	s.add(arr[i]==ord(one[i]))
-for i in range(len(arr)):
-	s.add(arr[i]>31)
-	s.add(arr[i]<127)
-s.add(arr[18]==ord("3"))
-s.add(arr[22]==arr[13]+32)
-s.add(arr[14]==ord("_"))
-s.add(arr[9]==arr[14],arr[14]==arr[19])
-s.add(arr[19]==arr[24])
-s.add(arr[8]==49)
-s.add(arr[8]==arr[16])
-s.add(arr[18]==arr[28])
-s.add(arr[15]==ord('L'))
-s.add(arr[17]^-10=-99)
-s.add(arr[20]+2==arr[27])
-s.add(arr[27]<=123)
-s.add(arr[27]%100==0)
-s.add(arr[20]>=97)
-s.add(arr[25]==ord('C'))
-s.add(arr[23]==ord("3"))
-count=0
-for i in range(len(arr)):
-	count+=arr[i]
-s.add(count==2441)
-for j in range(2,5,1):
-	s.add(arr[26]%j==0)
-s.add(arr[26]>=ord("0"),arr[26]<=ord("9"))
-print(s.check())
-m=s.model()
-print ("Flag:"+''.join(chr(int(str(m.evaluate(arr[i]))))for i in range(30)))
+	flag[i]=ord(one[i])
+for j in range(10,10+len(two),1):
+	flag[j]=ord(two[j-10])
+flag[-1]=flag[0]+52
+flag[7]=flag[-1]-2
+flag[18]=ord("3")
+flag[22]=flag[13]+32
+flag[14]=ord("_")
+flag[9]=flag[14]
+flag[19]=flag[14]
+flag[24]=flag[19]
+flag[8]=49
+flag[16]=flag[8]
+flag[28]=flag[18]
+flag[15]=ord('L')
+flag[17]=-10^-99
+flag[27]=100
+flag[20]=flag[27]-2
+flag[25]=ord('C')
+flag[23]=ord("3")
+count=2441
+for i in range(len(flag)):
+	count-=flag[i]
+for i in range(ord("0"),ord("9")+1,1):
+	check=1
+	for j in range(2,5,1):
+		if i%j!=0:
+			check=0
+	if check:
+		flag[26]=i
+flag[21]=count-flag[26]
+print(''.join(chr(i)for i in flag))
 ```
 
 ```
