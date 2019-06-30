@@ -11,7 +11,7 @@ tags : Bytecode Python
 
 ```
 C0rr3ct func:
-  6           0 LOAD_CONST               1 ('Wow!!!You so best^_^') 
+  6           0 LOAD_CONST          1 ('Wow!!!You so best^_^') 
               3 PRINT_ITEM          
               4 PRINT_NEWLINE       
               5 LOAD_CONST               0 (None)
@@ -30,7 +30,8 @@ Ch3cking func:
              22 BINARY_ADD                          
              23 LOAD_GLOBAL              0 (ord)
              26 LOAD_FAST                0 (flag)
-             29 LOAD_CONST               3 (-1)   =>arr[0]+52==arr[-1]
+             29 LOAD_CONST               3 (-1)  
+	                              =>arr[0]+52==arr[-1]
              32 BINARY_SUBSCR       
              33 CALL_FUNCTION            1
              36 COMPARE_OP               3 (!=)
@@ -48,7 +49,8 @@ Ch3cking func:
              68 BINARY_SUBSCR       
              69 CALL_FUNCTION            1
              72 COMPARE_OP               3 (!=)
-             75 POP_JUMP_IF_FALSE       88   => flag[-1]-2==flag[7]
+             75 POP_JUMP_IF_FALSE       88  
+	                             => flag[-1]-2==flag[7]
 
  10     >>   78 LOAD_GLOBAL             1 (F41l)
              81 CALL_FUNCTION            0
@@ -60,7 +62,8 @@ Ch3cking func:
              94 SLICE+2             
              95 LOAD_CONST               6 ('ISITDTU')
              98 COMPARE_OP               3 (!=) 
-            101 POP_JUMP_IF_FALSE      120  =>flag[0]~flag[6]='ISITDTU'
+            101 POP_JUMP_IF_FALSE      120  
+	                       =>flag[0]~flag[6]='ISITDTU'
 
  12         104 LOAD_GLOBAL              2 (sys)
             107 LOAD_ATTR                3 (exit)
@@ -76,7 +79,8 @@ Ch3cking func:
             130 LOAD_CONST               8 (14)
             133 BINARY_SUBSCR       
             134 COMPARE_OP               3 (!=)  
-            137 POP_JUMP_IF_TRUE       180   => flag[9]==flag[14]
+            137 POP_JUMP_IF_TRUE       180  
+	                         => flag[9]==flag[14]
             140 LOAD_FAST                0 (flag)   
             143 LOAD_CONST               8 (14)       
             146 BINARY_SUBSCR       
@@ -84,7 +88,8 @@ Ch3cking func:
             150 LOAD_CONST               9 (19)
             153 BINARY_SUBSCR       
             154 COMPARE_OP               3 (!=)     
-            157 POP_JUMP_IF_TRUE       180    => flag[14]==flag[19]
+            157 POP_JUMP_IF_TRUE       180    
+	                      => flag[14]==flag[19]
             160 LOAD_FAST                0 (flag)
             163 LOAD_CONST               9 (19)        
             166 BINARY_SUBSCR       
@@ -92,7 +97,8 @@ Ch3cking func:
             170 LOAD_CONST              10 (24)    
             173 BINARY_SUBSCR       
             174 COMPARE_OP               3 (!=)
-            177 POP_JUMP_IF_FALSE      193     => flag[19]==flag[24]
+            177 POP_JUMP_IF_FALSE      193     
+	                       => flag[19]==flag[24]
 
  14     >>  180 LOAD_FAST                1 (check)
             183 LOAD_CONST              11 (1)
@@ -107,7 +113,8 @@ Ch3cking func:
             203 CALL_FUNCTION            1
             206 LOAD_CONST              13 (49)
             209 COMPARE_OP               3 (!=)    
-            212 POP_JUMP_IF_TRUE       235     flag[8]==49
+            212 POP_JUMP_IF_TRUE       235     
+	                         => flag[8]==49
             215 LOAD_FAST                0 (flag)
             218 LOAD_CONST              12 (8)
             221 BINARY_SUBSCR       
@@ -115,7 +122,8 @@ Ch3cking func:
             225 LOAD_CONST              14 (16)
             228 BINARY_SUBSCR       
             229 COMPARE_OP               3 (!=)   
-            232 POP_JUMP_IF_FALSE      245      flag[8]==flag[16]
+            232 POP_JUMP_IF_FALSE      245      
+	                       => flag[8]==flag[16]
 
  16     >>  235 LOAD_GLOBAL              1 (F41l)
             238 CALL_FUNCTION            0
@@ -128,7 +136,8 @@ Ch3cking func:
             254 SLICE+3                              
             255 LOAD_CONST              16 ('d0nT')
             258 COMPARE_OP               3 (!=)
-            261 POP_JUMP_IF_FALSE      277 =>flag[10]~flag[13]=='d0nT'
+            261 POP_JUMP_IF_FALSE      277 
+	                  =>flag[10]~flag[13]=='d0nT'
 
  18         264 LOAD_FAST                1 (check)
             267 LOAD_CONST              11 (1)
@@ -163,7 +172,8 @@ Ch3cking func:
             337 LOAD_CONST              19 (28)
             340 BINARY_SUBSCR       
             341 COMPARE_OP               3 (!=)
-            344 POP_JUMP_IF_FALSE      357  => flag[18]==flag[28]
+            344 POP_JUMP_IF_FALSE      357  
+	                    => flag[18]==flag[28]
 
  20     >>  347 LOAD_GLOBAL              1 (F41l)
             350 CALL_FUNCTION            0
@@ -174,8 +184,9 @@ Ch3cking func:
             360 LOAD_CONST              20 (15)
             363 BINARY_SUBSCR       
             364 LOAD_CONST              21 ('L')
-            367 COMPARE_OP               3 (!=)  flag[15]=='L'
+            367 COMPARE_OP               3 (!=) 
             370 POP_JUMP_IF_FALSE      386
+	                          =>  flag[15]=='L'
 
  22         373 LOAD_FAST                1 (check)
             376 LOAD_CONST              11 (1)
@@ -191,8 +202,9 @@ Ch3cking func:
             399 LOAD_CONST              23 (-10)
             402 BINARY_XOR          
             403 LOAD_CONST              24 (-99)
-            406 COMPARE_OP               3 (!=) flag[17]^-10==-99
+            406 COMPARE_OP               3 (!=)
             409 POP_JUMP_IF_FALSE      422
+	                      => flag[17]^-10==-99
             .
             .
             .
