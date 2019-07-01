@@ -23,6 +23,7 @@ sudo apt-get install gdb-multiarch
 install gcc architecture
 
 ```
+##### Compile
 sudo apt-get install -y  gcc-multilib-arm-linux-gnueabi;sudo apt-get install -y  gcc-multilib-arm-linux-gnueabihf;
 sudo apt-get install -y  gcc-multilib-mips-linux-gnu;sudo apt-get install -y  gcc-multilib-mips64-linux-gnuabi64;
 sudo apt-get install -y  gcc-multilib-mips64el-linux-gnuabi64;sudo apt-get install -y  gcc-multilib-mipsel-linux-gnu;
