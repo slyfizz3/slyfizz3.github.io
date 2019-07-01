@@ -256,7 +256,7 @@ flag[21]=count-flag[26]
 print(''.join(chr(i)for i in flag))
 ```
 
-```python
+```c
 Flag:ISITDTU{1_d0nT_L1k3_b:t3_C0d3}
 ```
 
