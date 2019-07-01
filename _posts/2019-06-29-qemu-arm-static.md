@@ -14,17 +14,14 @@ using qemu-arm-static to analyze in my Ubuntu environment
 Install
 -----
 
-install qemu,gdb-multiarch
-
-##### Compile
+##### install qemu,gdb-multiarch
 ```
 sudo apt-get install qemu-mips-static
 sudo apt-get install gdb-multiarch
 ```
 
-install gcc architecture
 
-##### Compile
+##### install gcc architecture
 ```
 sudo apt-get install -y  gcc-multilib-arm-linux-gnueabi;
 sudo apt-get install -y  gcc-multilib-arm-linux-gnueabihf;
@@ -41,16 +38,12 @@ sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
 After install
 -----
 
-run arm binary
-
-##### Compile
+##### run arm binary
 ```
 qemu-arm-static -L /usr/arm-linux-gnueabihf ./binary parameter
 ```
 
-gdb analyze
-
-##### Compile
+##### gdb analyze
 ```
 local:
     qemu-arm-static -L /usr/arm-linux-gnueabihf -g 31338 ./binary parameter
