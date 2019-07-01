@@ -5,9 +5,11 @@ categories: write-up
 tags: .net
 ---
 
-```
+
 layer7ctf 때 못풀었던 .net문제이다.
-```
+
+---
+
 
 ```csharp
 using System;
