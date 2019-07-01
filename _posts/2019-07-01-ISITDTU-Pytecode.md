@@ -7,7 +7,8 @@ tags : Bytecode Python
 
 
 파이썬 바이트 코드 문제는 처음 접해봤는데 천천히 분석해서 풀었다.
----
+
+-----
 
 ```
 C0rr3ct func:
