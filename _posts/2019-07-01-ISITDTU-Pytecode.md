@@ -5,8 +5,9 @@ categories: write-up
 tags : Bytecode Python
 ---
 
-
+```python
 파이썬 바이트 코드 문제는 처음 접해봤는데 천천히 분석해서 풀었다.
+```
 
 -----
 
