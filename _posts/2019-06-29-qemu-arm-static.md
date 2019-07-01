@@ -13,8 +13,10 @@ using qemu-arm-static to analyze in my Ubuntu environment
 
 Install
 -----
+
 install qemu,gdb-multiarch
 
+##### Compile
 ```
 sudo apt-get install qemu-mips-static
 sudo apt-get install gdb-multiarch
@@ -24,11 +26,16 @@ install gcc architecture
 
 ##### Compile
 ```
-sudo apt-get install -y  gcc-multilib-arm-linux-gnueabi;sudo apt-get install -y  gcc-multilib-arm-linux-gnueabihf;
-sudo apt-get install -y  gcc-multilib-mips-linux-gnu;sudo apt-get install -y  gcc-multilib-mips64-linux-gnuabi64;
-sudo apt-get install -y  gcc-multilib-mips64el-linux-gnuabi64;sudo apt-get install -y  gcc-multilib-mipsel-linux-gnu;
-sudo apt-get install -y  gcc-multilib-powerpc-linux-gnu;sudo apt-get install -y  gcc-multilib-powerpc64-linux-gnu;
-sudo apt-get install -y  gcc-multilib-s390x-linux-gnu;sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
+sudo apt-get install -y  gcc-multilib-arm-linux-gnueabi;
+sudo apt-get install -y  gcc-multilib-arm-linux-gnueabihf;
+sudo apt-get install -y  gcc-multilib-mips-linux-gnu;
+sudo apt-get install -y  gcc-multilib-mips64-linux-gnuabi64;
+sudo apt-get install -y  gcc-multilib-mips64el-linux-gnuabi64;
+sudo apt-get install -y  gcc-multilib-mipsel-linux-gnu;
+sudo apt-get install -y  gcc-multilib-powerpc-linux-gnu;
+sudo apt-get install -y  gcc-multilib-powerpc64-linux-gnu;
+sudo apt-get install -y  gcc-multilib-s390x-linux-gnu;
+sudo apt-get install -y  gcc-multilib-sparc64-linux-gnu
 ```
 
 After install
@@ -36,12 +43,14 @@ After install
 
 run arm binary
 
+##### Compile
 ```
 qemu-arm-static -L /usr/arm-linux-gnueabihf ./binary parameter
 ```
 
 gdb analyze
 
+##### Compile
 ```
 local:
     qemu-arm-static -L /usr/arm-linux-gnueabihf -g 31338 ./binary parameter
