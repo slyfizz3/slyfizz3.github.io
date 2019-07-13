@@ -7,4 +7,4 @@ main:
   - title: "tags"
     url: /tags/
   - title: "Archive"
-    url: /archive/
+    url: "/archive/"
