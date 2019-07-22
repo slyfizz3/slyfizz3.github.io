@@ -15,7 +15,7 @@ codegate 2017 prequal에 출제되었던 Golang binary이다.
 
 id_check과 pw_check은 모두 입력값이 33~126의 범위인지 판별한다.
 
-맞다면 id_pw_check로 이동하는데 이번에도 2부분을 유심히 봐야한다.
+맞다면 id_pw_check로 이동하는데 이번에도 두가지 부분을 유심히 봐야한다.
 
 ![point1](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/point1.png)
 
@@ -25,12 +25,12 @@ id_check과 pw_check은 모두 입력값이 33~126의 범위인지 판별한다.
 
 2.id^pw가 pw_key인지 판별하는 부분
 
-2번은 1번에서 id를 구해준 후 pw_key를 xor하면 될거같은데 1번이 너무 분석하기 힘들어서 게싱으로 풀었다.
+2번은 1번에서 id를 구해준 후 PW_key를 xor 하면 되는데 1번이 너무 분석하기 힘들어서 계실 것으로 풀었다.
 
-![guessing](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/guessing.png)
+![guess](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/guess.png)
 
-id의 배열을 보면 배열의 인덱스가 모두 0이상 7이하인것을 알수 있다.
-즉 0이나 1로 바뀔수있을것이라고 생각하였고 각 인덱스에 4를 나눈 후 연산에 있었던 xor1을 해보니
+id의 배열을 보면 배열의 인덱스가 모두 0 이상 7 이하인 것을 알 수 있다.
+즉 0이나 1로 바뀔 수가 있을 것이라고 생각하였고 각 인덱스에 4를 나눈 후 연산에 있었던 xor 1을 해보니
 
 이진수가 나와서 8비트씩 끊어서 계산하니 ID를 구할 수 있었다.
 
