@@ -19,13 +19,13 @@ id_check과 pw_check은 모두 입력값이 33~126의 범위인지 판별한다.
 
 ![point1](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/point1.png)
 
-1.id와 관련해서 xor1등 연산을 하는부분
+1.id에 연산을 하는부분
 
 ![point2](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/point2.png)
 
 2.id^pw가 pw_key인지 판별하는 부분
 
-2번은 1번에서 id를 구해준 후 PW_key를 xor 하면 되는데 1번이 너무 분석하기 힘들어서 계실 것으로 풀었다.
+2번은 1번에서 id를 구해준 후 PW_key를 xor 하면 되는데 1번이 너무 분석하기 힘들어서 게싱으로 풀었다.
 
 ![guess](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/guess.png)
 
