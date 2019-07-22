@@ -5,6 +5,10 @@ categories: write-up
 tags: Golang Codegate
 ---
 
+```go언어 바이너리 이다.
+```
+
+
 ![error](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/G0Crack/error.png)
 
 먼저 바이너리를 디컴파일 하려고 하면 오류가 뜬다.
@@ -59,4 +63,4 @@ p.interactive()
 Flag is c4tch_y0ur_dr24m@@!
 ```
 
-실력이 부족해서 go언어 분석하기 너무힘들다.완벽하게 분석할수 있을때까지 더노력해야겠다.
+실력이 부족해서 go언어 분석하기 너무힘들다.완벽하게 분석할수 있을때까지 더 노력해야겠다.
