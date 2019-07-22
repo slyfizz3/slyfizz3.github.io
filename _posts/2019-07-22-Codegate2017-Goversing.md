@@ -1,6 +1,6 @@
 ---
 title: "Codegate2017 Goversing"
-date: 2019-07-22
+date: 2019-07-22 19:40
 categories: write-up
 tags: Golang Codegate
 ---
