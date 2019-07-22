@@ -5,7 +5,8 @@ categories: write-up
 tags: Golang Codegate
 ---
 
-```go언어 바이너리 이다.
+```
+go언어 바이너리 이다.
 ```
 
 
