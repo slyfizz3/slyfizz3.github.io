@@ -6,7 +6,7 @@ tags: Golang Codegate
 ---
 
 ```
-go언어 바이너리 이다.
+codegate 2018 final에 나왔던 Golang binary이다.
 ```
 
 
