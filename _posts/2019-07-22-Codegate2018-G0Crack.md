@@ -1,6 +1,6 @@
 ---
 title: "Codegate2018 G0Crack"
-date: 2019-07-22
+date: 2019-07-22 18:30
 categories: write-up
 tags: Golang Codegate
 ---
