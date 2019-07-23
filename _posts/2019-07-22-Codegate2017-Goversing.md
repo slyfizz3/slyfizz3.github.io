@@ -29,7 +29,7 @@ id_check과 pw_check은 모두 입력값이 33~126의 범위인지 판별한다.
 
 ![guess](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/guess.png)
 
-id의 배열을 보면 배열의 인덱스가 모두 0 이상 7 이하인 것을 알 수 있다.
+id_key 배열을 보면 배열의 인덱스가 모두 0 이상 7 이하인 것을 알 수 있다.
 즉 0이나 1로 바뀔 수가 있을 것이라고 생각하였고 각 인덱스에 4를 나눈 후 연산에 있었던 xor 1을 해보니
 
 이진수가 나와서 8비트씩 끊어서 계산하니 ID를 구할 수 있었다.
@@ -61,5 +61,4 @@ p.interactive()
 ```
 FLAG{39e1316661e80847b12dae96789a13e4a3d3b496}
 ```
-
-다음에 한번 더 제대로 풀어봐야겠다...
+다시 한번 풀어보도록 하자
