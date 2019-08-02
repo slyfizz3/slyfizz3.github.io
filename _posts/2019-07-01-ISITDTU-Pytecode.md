@@ -1,7 +1,7 @@
 ---
 title: "ISITDTUCTF2019[prequal]-Pytecode"
 date: 2019-06-30
-categories: write-up
+categories: CTF
 tags : Bytecode Python
 ---
 
