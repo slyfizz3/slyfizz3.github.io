@@ -9,7 +9,7 @@ tags: Golang Codegate
 codegate 2017 prequal에 출제되었던 Golang binary이다.
 ```
 
-그냥은 디컴파일이 되지 않는데 [저번 포스트](https://slyfizz3.github.io/writeup/Gocrack)에서 소개했던데로 Options-Compiler-sizeof(int)를 8에서 4로 고치면 정상적으로 디컴파일이 된다.
+그냥은 디컴파일이 되지 않는데 [저번 포스트](https://slyfizz3.github.io/write-up/Codegate2018-G0Crack/)에서 소개했던데로 Options-Compiler-sizeof(int)를 8에서 4로 고치면 정상적으로 디컴파일이 된다.
 
 ![input](https://raw.githubusercontent.com/slyfizz3/slyfizz3.github.io/master/image/Goversing/input.png)
 
