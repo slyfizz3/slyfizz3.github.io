@@ -4,7 +4,9 @@ date: 2019-08-06
 categories: CTF
 tags : UPX custom-table-base64
 ---
+```
 de1ctf의 re_sign 이라는 문제였고 문제 설명에는 UPX라고 적혀있었다.
+```
 올리 디버거로 MUP 방식으로 덤프를 뜨고 ida로 동적디버깅 해보려고했는데 kernel32.dll 오류때문에 할수없어서 
 ida는 정적으로 immunity 디버거를 동적으로 사용하면서 분석했다.
 
