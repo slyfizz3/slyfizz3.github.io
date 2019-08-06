@@ -10,7 +10,7 @@ ida는 정적으로 immunity 디버거를 동적으로 사용하면서 분석했
 
 분석을 해보니 custom table base64encode라는것을 알았고 분석해서 얻은 테이블들을 이용해 복호화했다.
 
-'''python
+```python
 import string,base64
 table="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="
 	
@@ -24,14 +24,16 @@ arr="UA93I4S6IjB9OqpEPAcYA55OAkISSwZGDSyBGeRqHDHrJ6wuJlfpKemdLF9hZ7SlZzBcXM0fEME
 tb=string.maketrans(arr,table)
 rb=enc.translate(tb)
 print(base64.b64decode(rb))
-'''
+```
 
-'''
+```
 de1ctf{EBL4Zguag3B1sBK3KeJ3_MtJi4	
-'''
+```
 
 중간에 base64충돌이 일어나서 플래그가 이상하게 나오는데 이부분을 직접 디버깅하면서 수정했다.
-'''
+```
 최종 플래그:de1ctf{E_L4nguag3_1s_K3KeK3_N4Ji4}
-'''
+```
+
+
 xctf 관련 문제는 항상 못풀고 끝냈는데 이번에는 풀어서 다행이다.
