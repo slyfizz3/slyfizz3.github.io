@@ -39,3 +39,4 @@ de1ctf{EBL4Zguag3B1sBK3KeJ3_MtJi4
 
 
 xctf 관련 문제는 항상 못풀고 끝냈는데 이번에는 풀어서 다행이다.
+이따가 사진 더 넣어야겟당
