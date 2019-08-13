@@ -28,5 +28,5 @@ History(2019)
 
 2019.05.09 6th place, bronze Prize, In School Hacking Contest
 
-2019.08.09~2019.08.13 4th place YISF2019 prequal (Nick: ROP 어떻게 하나요?)
+2019.08.09~2019.08.13 4th place, YISF2019 prequal (Nick: ROP 어떻게 하나요?)
 ```
