@@ -16,7 +16,7 @@ Install
 
 ##### install qemu,gdb-multiarch
 ```
-sudo apt-get install qemu-mips-static
+sudo apt-get install qemu-user-static
 sudo apt-get install gdb-multiarch
 ```
 
