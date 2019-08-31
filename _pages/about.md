@@ -8,6 +8,8 @@ Name:Jong min Kim(김종민)
 
 Age:18 
 
+Team:Defenit
+
 School:sunrin internet highschool 
 
 Language:C,Python,Java,Assembly
