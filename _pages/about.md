@@ -36,6 +36,6 @@ History(2019)
 2019.08.17 청소년부 13th place 2019 사이버 작전 경연 대회
 (Team:꼴등)
 
-2019.08.31  1th, 2019 2th Sunrin High-School-hacker Hacking Contest
+2019.08.31  1st, 2019 Sunrin High-School-hacker Hacking Contest
 (Team:1등)
 ```
