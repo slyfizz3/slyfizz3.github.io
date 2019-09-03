@@ -26,16 +26,19 @@ History(2019)
 
 2018.05.03 hacking started
 
-2019.05.09 6th place, bronze Prize, In School Hacking Contest
+2019.05.09 School Hacking Contest 6th
 
-2019.08.09~2019.08.11 4th place, YISF 17th prequal
+2019.08.09~2019.08.11 YISF 17th prequal 4th
 (Nick: ROP 어떻게 하나요?)
 
 2019.08.16 2019 Layer7 내부ctf 문제 출제
 
-2019.08.17 청소년부 13th place 2019 사이버 작전 경연 대회
+2019.08.17 2019 사이버 작전 경연 대회 청소년부 13th
 (Team:꼴등)
 
-2019.08.31  1st, 2019 Sunrin High-School-hacker Hacking Contest
+2019.08.31 2019 Sunrin High-School-hacker Hacking Contest 1st
 (Team:1등)
+
+2019.08.31~2019.09.02 27th TokyoWesterns CTF 5th prequal 2019 27th 
+(team SEDefenit)
 ```
