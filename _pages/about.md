@@ -39,6 +39,6 @@ History(2019)
 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest 1st
 (Team:1등)
 
-2019.08.31~2019.09.02 27th TokyoWesterns CTF 5th prequal 2019 27th 
-(team SEDefenit)
+2019.08.31~2019.09.02 TokyoWesterns CTF 5th prequal 2019 27th 
+(Team SEDefenit)
 ```
