@@ -42,4 +42,7 @@ History(2019)
 2019.08.31~2019.09.02 TokyoWesterns CTF 5th prequal 2019 27th 
 (Team:SEDefenit)
 
+2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all clear)
+(Team:tourist)
+
 ```
