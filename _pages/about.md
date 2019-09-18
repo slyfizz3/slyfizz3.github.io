@@ -44,5 +44,4 @@ History(2019)
 
 2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all clear)
 (Team:tourist)
-
 ```
