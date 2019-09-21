@@ -33,9 +33,6 @@ History(2019)
 
 2019.08.16 2019 Layer7 내부ctf 문제 출제
 
-2019.08.17 2019 사이버 작전 경연 대회 청소년부 13th
-(Team:꼴등)
-
 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest 1st
 (Team:1등)
 
@@ -44,4 +41,7 @@ History(2019)
 
 2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all clear)
 (Team:tourist)
+
+2019.09.21 konyang univ k-ctf 2nd
+(Tema:앙종민띠)
 ```
