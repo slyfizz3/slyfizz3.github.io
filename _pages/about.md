@@ -42,6 +42,6 @@ History(2019)
 2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all clear)
 (Team:tourist)
 
-2019.09.21 konyang univ k-ctf 2nd
+2019.09.21 konyang univ k-ctf 2nd (300$)
 (Tema:앙종민띠)
 ```
