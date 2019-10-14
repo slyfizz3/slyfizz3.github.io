@@ -31,8 +31,6 @@ History(2019)
 2019.08.09~2019.08.11 YISF 17th prequal 4th
 (Nick: ROP 어떻게 하나요?)
 
-2019.08.16 2019 Layer7 내부ctf 문제 출제
-
 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest 1st
 (Team:1등)
 
