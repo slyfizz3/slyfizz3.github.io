@@ -39,6 +39,10 @@ History(2019)
 
 2019.09.21 konyang univ k-ctf 2nd (300$)
 (Tema:앙종민띠)
+
+2019.10.20 :DSEC CTF Quals 7th
+(Team : 팀명이 시랄이라면 김준태는 카톡을 보지 않은 것 입니다)
+
 ```
 
 ```
