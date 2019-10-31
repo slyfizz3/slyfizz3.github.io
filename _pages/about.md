@@ -43,7 +43,7 @@ History(2019)
 2019.10.26~2019.10.27 8th HolyShield CTF youth 4th (whole 10th)
 (Team : Holy Moly Shield)
 
-2019.10.20 The hacking Championship junior final 1st (1000$)
+2019.10.31 The hacking Championship junior final 1st (1000$)
 (Team : 팀명이 시랄이라면 김준태는 카톡을 보지 않은 것 입니다)
 
 ```
