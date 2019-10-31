@@ -34,7 +34,7 @@ History(2019)
 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest 1st
 (Team:1등)
 
-2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all clear)
+2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all solve)
 (Team:tourist)
 
 2019.09.21 konyang univ k-ctf 2nd (300$)
@@ -43,7 +43,7 @@ History(2019)
 2019.10.26~2019.10.27 8th HolyShield CTF youth 4th (whole 10th)
 (Team : Holy Moly Shield)
 
-2019.10.20 The hacking Championship junior final 1st
+2019.10.20 The hacking Championship junior final 1st (1000$)
 (Team : 팀명이 시랄이라면 김준태는 카톡을 보지 않은 것 입니다)
 
 ```
