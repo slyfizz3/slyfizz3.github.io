@@ -31,7 +31,7 @@ History(2019)
 2019.08.09~2019.08.11 YISF 17th prequal 4th
 (Nick: ROP 어떻게 하나요?)
 
-2019.08.31 2019 Sunrin High-School-hacker Hacking Contest 1st
+2019.08.31 2019 Sunrin High-School-hacker Hacking Contest quals 1st
 (Team:1등)
 
 2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all solve)
