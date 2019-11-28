@@ -5,9 +5,9 @@ categories: Rev-chall
 ---
 
 
-
-
 # ASISCTF2018 Destiny
+
+#### analyze.py
 
 ```python
 from ctypes import *
@@ -52,7 +52,7 @@ def enc2(inp):
 		idx3=table4.index(inp[i+2])
 		idx4=table4.index(inp[i+3])	
 
-		v20=(idx1*4	)|(idx2>>4)
+		v20=(idx1*4)|(idx2>>4)
 		v24=((idx2*16)|(idx3>>2))&0xff
 		v22=(idx3<<6)&0xff
 
@@ -72,10 +72,13 @@ print(inp)
 
 ```
 
-먼저 time seed를 이용해서 플래그에 앞뒤로 문자열을  붙여주고  그 문자열의 특수문자들을 +를 이용해서 치환해준다.
+주어진 바이너리를 파이썬으로 옮겨보았다.
+
+time seed를 이용해서 플래그에 앞뒤로 랜덤한 문자열을  붙여주고  그 문자열의 특수문자들을 +를 이용해서 치환해준다.
 
 그 후 비트연산을 해서 나온 플래그가 주어진 txt 파일이랑 같으면 답이된다.
 
+#### solve.py
 ```python
 from z3 import *
 
