@@ -13,7 +13,7 @@ probs are from
 I solved all 11 [Baby] probs!!
 ---
 
-##### dMd
+# dMd
 
 ```python
 import hashlib
@@ -32,7 +32,7 @@ else:
 Flag:b781cbb29054db12f88f08c6e161c199
 ```
 
-##### SRM
+# SRM
 
 ```python
 from z3 import *
@@ -68,7 +68,7 @@ print(flag)
 Flag:CZ9dmq4c8g9G7bAX
 ```
 
-##### Serial
+# Serial
 
 ```python
 def sub9b(x):
@@ -94,7 +94,7 @@ print(''.join(chr(i)for i in arr+result))
 Flag:EZ9dmq4c8g9G7bAV
 ```
 
-##### SPIM
+# SPIM
 
 ```
 #"IVyN5U3X)ZUMYCs"
@@ -142,7 +142,7 @@ for i in range(len(arr)):
 Flag:IW{M1P5_!S_FUN}
 ```
 
-##### File_Checker
+# File_Checker
 
 ```python
 table=[
@@ -156,7 +156,7 @@ for i in table:
 Flag:IW{FILE_CHeCKa}
 ```
 
-##### ServerfARM
+# ServerfARM
 
 ```python
 from pwn import *
@@ -190,13 +190,13 @@ print "Flag:"+flag
 Flag:IW{S.E.R.V.E.R>=F:A:R:M}
 ```
 
-##### Matriochka_-_Step_1
+# Matriochka_-_Step_1
 
 ```
 Flag:Much_secure__So_safe__Wow
 ```
 
-##### Matriochka_-_Step_2
+# Matriochka_-_Step_2
 
 ```python
 from z3 import *
@@ -224,7 +224,7 @@ print ("Flag:"+''.join(chr(int(str(m.evaluate(arr[i]))))for i in range(11)))
 Flag:Pandi_panda
 ```
 
-##### Matriochka_-_Step_3
+# Matriochka_-_Step_3
 
 ```python
 table=[68,105,100,95,121,111,117,95,108,105,107,101,95,115,105,103,110,97,108,115,63,]
@@ -235,7 +235,7 @@ print(''.join(chr(i)for i in table))
 Flag:Did_you_like_signals?
 ```
 
-##### warm_up
+# warm_up
 
 ```c
 typedef long int int64_t;
@@ -250,7 +250,7 @@ you can get Flag
 Flag:ASIS{hi_all_w31c0m3_to_ASISCTF}
 ```
 
-##### Android_App
+# Android_App
 
 Extracting apps using apktool
 
