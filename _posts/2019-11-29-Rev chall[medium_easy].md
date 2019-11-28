@@ -1,15 +1,13 @@
-```
 ---
 title: "N4NU's Rev-chall[medium_easy]"
 date: 2019-11-28
 categories: Rev-chall
-tags: z3
 ---
-```
 
 
 
-[ASISCTF2018 Destiny]
+
+##ASISCTF2018 Destiny
 
 ```python
 from ctypes import *
