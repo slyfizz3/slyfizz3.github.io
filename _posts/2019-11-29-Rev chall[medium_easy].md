@@ -1,4 +1,4 @@
----
+9---
 title: "N4NU's Rev-chall[medium_easy]"
 date: 2019-11-28
 categories: Rev-chall
@@ -76,7 +76,7 @@ print(inp)
 
 time seed를 이용해서 플래그에 앞뒤로 랜덤한 문자열을  붙여주고  그 문자열의 특수문자들을 +를 이용해서 치환해준다.
 
-그 후 비트연산을 해서 나온 플래그가 주어진 txt 파일이랑 같으면 답이된다.
+그 후 비트연산을 해서 나온 문자열이 short파일의 값이랑 같으면 정답이된다.
 
 #### solve.py
 ```python
