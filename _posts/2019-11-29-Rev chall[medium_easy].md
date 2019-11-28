@@ -7,7 +7,7 @@ categories: Rev-chall
 
 
 
-##ASISCTF2018 Destiny
+# ASISCTF2018 Destiny
 
 ```python
 from ctypes import *
