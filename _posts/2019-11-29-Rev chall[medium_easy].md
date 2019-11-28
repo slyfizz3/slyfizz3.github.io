@@ -1,4 +1,4 @@
-9---
+---
 title: "N4NU's Rev-chall[medium_easy]"
 date: 2019-11-28
 categories: Rev-chall
