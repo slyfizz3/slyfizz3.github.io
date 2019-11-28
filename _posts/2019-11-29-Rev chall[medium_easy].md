@@ -7,7 +7,7 @@ categories: Rev-chall
 
 # ASISCTF2018 Destiny
 
-#### analyze.py
+### analyze.py
 
 ```python
 from ctypes import *
@@ -78,7 +78,7 @@ time seed를 이용해서 플래그에 앞뒤로 랜덤한 문자열을  붙여�
 
 그 후 비트연산을 해서 나온 문자열이 short파일의 값이랑 같으면 정답이된다.
 
-#### solve.py
+### solve.py
 ```python
 from z3 import *
 
