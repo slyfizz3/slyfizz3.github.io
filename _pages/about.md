@@ -46,7 +46,7 @@ History(2019)
 2019.10.31 The hacking Championship junior final 1st (1000$)
 (Team : 팀명이 시랄이라면 김준태는 카톡을 보지 않은 것 입니다)
 
-2019.11.29 2019 Sunrin High-School-hacker Hacking Contest final 3rd (silver prize)
+2019.11.29 2019 Sunrin High-School-hacker Hacking Contest final 3rd
 (Team:1등)
 
 ```
