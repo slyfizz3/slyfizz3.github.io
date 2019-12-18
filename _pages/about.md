@@ -53,5 +53,5 @@ History(2019)
 
 ```
 wargame
-system32.kr 1st (reversing all clear)
+system32.kr 2rd (reversing all clear)
 ```
