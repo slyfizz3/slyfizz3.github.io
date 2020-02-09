@@ -55,6 +55,12 @@ History(2019)
 ```
 
 ```
+History(2019)
+
+codegate2020 finalist
+```
+
+```
 wargame
 system32.kr 2rd (reversing prob all clear)
 ```
