@@ -6,7 +6,7 @@ author_profile: true
 ```
 Name:Jong min Kim(김종민) 
 
-Age:18 
+Age:19
 
 Team:Defenit
 
@@ -16,7 +16,7 @@ Language:C,Python,Java,Assembly
 
 Main technology:Reverse Engineering
 
-Nickname:slyfizz,from slyfizz3 import * 
+Nickname:slyfizz,from slyfizz3 import *,rev4fun 
 
 E-mail:min0308k@gmail.com
 ```
