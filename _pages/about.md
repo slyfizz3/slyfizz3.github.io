@@ -28,9 +28,6 @@ History(2019)
 
 2019.05.09 School Hacking Contest 6th
 
-2019.08.09~2019.08.11 YISF 17th prequal 4th
-(Nick: ROP 어떻게 하나요?)
-
 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest quals 1st
 (Team : 1등)
 
@@ -55,7 +52,7 @@ History(2019)
 ```
 
 ```
-History(2019)
+History(2020)
 
 codegate2020 finalist
 ```
