@@ -55,6 +55,7 @@ History(2019)
 History(2020)
 
 2020.02.09 codegate2020 prequal junior 17th
+(Nickname: rev4fun)
 ```
 
 ```
