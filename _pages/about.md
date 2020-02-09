@@ -54,7 +54,7 @@ History(2019)
 ```
 History(2020)
 
-codegate2020 finalist
+codegate2020 junior finalist
 ```
 
 ```
