@@ -1,0 +1,226 @@
+---
+title: "2020DefenitCTF MixMix"
+date: 2019-07-22 19:40
+categories: write-up
+tags: matrix
+---
+
+```
+I made MixMix from defenit ctf
+```
+
+[MixMix]](https://https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
+
+and this is my presudo code by python 
+
+```python
+from __future__ import print_function
+from ctypes import *
+
+sbox1=[i for i in range(0x100)]
+sbox2=[[[0 for i in range(2)]for j in range(8)]for k in range(8)]
+table=[0]*256
+tbox1=[[[0 for i in range(8)] for j in range(8)]for k in range(4)]
+tbox2=[[[0 for i in range(8)] for j in range(8)]for k in range(4)]
+
+
+def rc4(data, key):
+    res = []
+    S = []
+    for i in range(256):
+        S.append(i)
+
+    j = 0
+    for i in range(256):
+        j = (j + S[i] + key[(i % len(key))]) % 256
+        S[j], S[i] = S[i], S[j]
+    i = 0
+    j = 0
+    for b in data:
+        i = (i + 1) % 256
+        j = (j + S[i]) % 256
+        S[j], S[i] = S[i], S[j]
+        K = S[((S[i] + S[j]) % 256)]
+        res.append(K ^ b)
+
+    return res
+def gensbox1():
+	libc=CDLL("libc.so.6")
+	libc.srand(0xdefea7)
+	for i in range(256):
+		a=libc.rand()&0xff
+		sbox1[i],sbox1[a]=sbox1[a],sbox1[i]
+
+def gensbox2():
+
+	for i in range(len(sbox2)):
+		for j in range(len(sbox2[i])):
+			sbox2[i][j][0]=i
+			sbox2[i][j][1]=j
+	
+	for i in range(len(sbox2)):
+		for j in range(len(sbox2[i])):
+			a=sbox1[i]%8
+			b=sbox1[j]%8
+			sbox2[i][j],sbox2[a][b]=sbox2[a][b],sbox2[i][j]
+
+def tobinary(inp):
+	for i in range(len(inp)):
+		cc=inp[i]
+		for j in range(8):
+			table[i*8+j]=cc&1
+			cc>>=1
+def enc1():
+	for i in range(4):
+		for j in range(8):
+			for k in range(8):
+				tbox1[i][j][k]=table[sbox1[i*64+j*8+k]]
+def enc2():
+	for i in range(4):
+		for j in range(8):
+			for k in range(8):
+				tbox2[i][j][k]=tbox1[i][sbox2[j][k][0]][sbox2[j][k][1]]
+
+
+
+def tostring():
+	out=[]
+	for i in range(4):
+		for j in range(8):
+			oo=0
+			for k in range(8):
+				oo+=tbox2[i][j][7-k]<<k
+			out.append(oo)
+	out=''.join([chr(i)for i in out])
+	return out
+	
+if __name__ == "__main__":
+	inp=raw_input("Enter text:")
+	inp=list(map(ord,inp))
+	gensbox1()
+	gensbox2()
+	tobinary(inp)
+	enc1()
+	enc2()
+	out=tostring()
+
+	out=list(map(ord,out))
+	key=list(map(ord,"Defenit"))  
+	out=rc4(out,key)
+	out=''.join([chr(i)for i in out])
+	a=open("out.txt","wb").write(out)
+```
+```
+The code looks complicated, but if you analyze it, you can see that 
+it is simply using the rc4 algorithm after generating array and  matrix with a fixed rand value 
+and then changing the index with generated array and matrix.
+```
+
+The decryption code is the reverse of the above process.
+
+```python
+from ctypes import *
+sbox1=[i for i in range(0x100)]
+sbox2=[[[0 for i in range(2)]for j in range(8)]for k in range(8)]
+dec1box=[[[0 for i in range(8)] for j in range(8)]for k in range(4)]
+dec2box=[[[0 for i in range(8)] for j in range(8)]for k in range(4)]
+table1=[0]*256
+table2=[0]*256
+def rc4(data, key):
+    res = []
+    S = []
+    for i in range(256):
+        S.append(i)
+    j = 0
+    for i in range(256):
+        j = (j + S[i] + key[(i % len(key))]) % 256
+        S[j], S[i] = S[i], S[j]
+    i = 0
+    j = 0
+    for b in data:
+        i = (i + 1) % 256
+        j = (j + S[i]) % 256
+        S[j], S[i] = S[i], S[j]
+        K = S[((S[i] + S[j]) % 256)]
+        res.append(K ^ b)
+
+    return res
+
+def gensbox1():
+    libc=CDLL("libc.so.6")
+    libc.srand(0xdefea7)
+    for i in range(256):
+        b=libc.rand()&0xff
+        sbox1[i],sbox1[b]=sbox1[b],sbox1[i]
+
+def gensbox2():
+    for i in range(len(sbox2)):
+        for j in range(len(sbox2[i])):
+            sbox2[i][j][0]=i
+            sbox2[i][j][1]=j
+    
+    for i in range(len(sbox2)):
+        for j in range(len(sbox2[i])):
+            a=sbox1[i]%8
+            b=sbox1[j]%8
+            sbox2[i][j],sbox2[a][b]=sbox2[a][b],sbox2[i][j]
+
+def tobinary(inp):
+    for i in range(len(inp)):
+        cc=inp[i]
+        for j in range(8):
+            table1[i*8+7-j]=cc&1
+            cc>>=1
+
+def setbox():
+    for i in range(4):
+        for j in range(8):
+            for k in range(8):
+                dec2box[i][j][k]=table1[i*64+j*8+k]
+
+def dec1():
+    for i in range(4):
+        for j in range(8):
+            for k in range(8):
+                table2[sbox1[i*64+j*8+k]]=dec1box[i][j][k]
+
+def dec2():
+    for i in range(4):
+        for j in range(8):
+            for k in range(8):
+                dec1box[i][sbox2[j][k][0]][sbox2[j][k][1]]=dec2box[i][j][k]
+
+def tostring():
+    out=[]
+    for i in range(len(table2)//8):
+        oo=0
+        for j in range(8):
+            oo+=table2[i*8+j]<<j
+        out.append(oo)
+    out=''.join([chr(i)for i in out])
+    return out
+
+if __name__ == "__main__":
+    enc=open("out.txt","rb").read()
+    enc=list(map(ord,enc))
+    key=list(map(ord,"Defenit"))  
+    enc=rc4(enc,key)
+    gensbox1()
+    gensbox2()
+    tobinary(enc)
+    setbox()
+    dec2()
+    dec1()
+    out=tostring()
+    print(out)
+```
+so you can get the flag 
+
+```
+Defenit{m1x_r4nd_c0lumn_r0w_rc4}
+```
+
+```
+I want to make a more difficult problem next time
+Thanks to everyone who solved my problem!
+```
