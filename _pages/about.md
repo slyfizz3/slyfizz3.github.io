@@ -57,9 +57,7 @@ History(2020)
 2020.02.09 codegate2020 prequal junior 17th
 (Nickname: rev4fun)
 ```
-<p>
-Organizer
-</p>
 <b>
+Organizer
 [MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
 </b>
