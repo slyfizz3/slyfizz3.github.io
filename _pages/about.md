@@ -58,8 +58,6 @@ History(2020)
 (Nickname: rev4fun)
 ```
 
-```
 Organizer
 [MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
-```
 
