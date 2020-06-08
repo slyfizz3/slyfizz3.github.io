@@ -59,5 +59,7 @@ History(2020)
 ```
 <p>
 Organizer
-[MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
 </p>
+<b>
+[MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
+</b>
