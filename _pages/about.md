@@ -60,7 +60,7 @@ History(2020)
 
 ```
 Organizer
-2020.06.05~2020.06.07 2020 DefenitCTF [MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
+2020.06.05~2020.06.07 2020 DefenitCTF 
 ```
-
+[MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF/MixMix)
 
