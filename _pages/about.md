@@ -56,6 +56,6 @@ E-mail:min0308k@gmail.com
 
 # Organizer
 ## 2020.06.05~2020.06.07 [2020 Defenit CTF](https://www.boannews.com/media/view.asp?idx=88856&page=1&kind=1)
-### [MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF)
+### ([MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF))
 
 
