@@ -45,7 +45,7 @@ E-mail:min0308k@gmail.com
 (Team : 1등)
 
 ## 2019.12.25 Christmas CTF 2nd (1000$) 
-(Team : Anti PPP)
+### (Team : Anti PPP)
 
 # History(2020)
 
