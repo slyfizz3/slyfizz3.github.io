@@ -51,7 +51,7 @@ E-mail:min0308k@gmail.com
 # History(2020)
 
 ## 2020.02.09 codegate2020 prequal junior 17th
-### (Nickname: rev4fun)
+#### (Nickname: rev4fun)
 
 
 # Organizer
