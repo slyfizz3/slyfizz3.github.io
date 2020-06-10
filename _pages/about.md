@@ -3,7 +3,7 @@ title: "About me"
 permalink: /about/
 author_profile: true
 ---
-
+```
 Name:Jong min Kim(김종민) 
 
 Age:19
@@ -19,6 +19,7 @@ Main technology:Reverse Engineering
 Nickname:slyfizz,rev4fun 
 
 E-mail:min0308k@gmail.com
+```
 
 # History(2019)
 
@@ -54,6 +55,7 @@ E-mail:min0308k@gmail.com
 
 
 # Organizer
-### 2020.06.05~2020.06.07 [2020 Defenit CTF](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF)
+### 2020.06.05~2020.06.07 [2020 Defenit CTF](https://www.boannews.com/media/view.asp?idx=88856&page=1&kind=1)
+[MixMix](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF)
 
 
