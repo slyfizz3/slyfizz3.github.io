@@ -3,7 +3,7 @@ title: "About me"
 permalink: /about/
 author_profile: true
 ---
-```
+
 Name:Jong min Kim(김종민) 
 
 Age:19
@@ -19,10 +19,8 @@ Main technology:Reverse Engineering
 Nickname:slyfizz,rev4fun 
 
 E-mail:min0308k@gmail.com
-```
 
-```
-History(2019)
+# History(2019)
 
 2018.05.03 hacking started
 
@@ -49,14 +47,10 @@ History(2019)
 2019.12.25 Christmas CTF 2nd (1000$) 
 (Team : Anti PPP)
 
-```
-
-```
-History(2020)
+# History(2020)
 
 2020.02.09 codegate2020 prequal junior 17th
 (Nickname: rev4fun)
-```
 
 
 # Organizer
