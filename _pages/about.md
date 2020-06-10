@@ -39,7 +39,7 @@ E-mail:min0308k@gmail.com
 ### 2019.10.26~2019.10.27 8th HolyShield CTF youth 4th (whole 10th)
 #### (Team : Holy Moly Shield)
 
-### 2019.10.31 [The hacking Championship junior final 1st](https://news.unn.net/news/articleView.html?idxno=221717) (1000$)
+### 2019.10.31 [The hacking Championship junior final](https://news.unn.net/news/articleView.html?idxno=221717) 1st (1000$)
 #### (Team : 팀명이 시랄이라면 김준태는 카톡을 보지 않은 것 입니다)
 
 ### 2019.11.29 2019 Sunrin High-School-hacker Hacking Contest final 3rd
@@ -51,7 +51,7 @@ E-mail:min0308k@gmail.com
 
 # History(2020)
 
-### 2020.02.09 codegate2020 prequal junior 17th
+### 2020.02.09 [codegate2020 prequal junior](http://codegate.org/) 17th
 #### (Nickname: rev4fun)
 
 
