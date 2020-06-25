@@ -12,15 +12,13 @@ Team:Defenit
 
 School:sunrin internet highschool 
 
+Kitri BOB 9th Vulnerability Analysis Track
+
 Language:C,Python,Java,Assembly
 
 Main technology:Reverse Engineering
 
 Nickname:slyfizz,rev4fun 
-
-Kitri best of the best 9th 
-
-E-mail:min0308k@gmail.com
 ```
 
 # History(2019)
