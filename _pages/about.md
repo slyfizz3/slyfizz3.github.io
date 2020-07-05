@@ -23,11 +23,10 @@ Nickname:slyfizz,rev4fun
 
 # History(2019)
 
-### 2018.05.03 hacking started
 
-#### 2019.05.09 School Hacking Contest 6th
+### 2019.05.09 School Hacking Contest 6th
 
-### 019.08.31 2019 Sunrin High-School-hacker Hacking Contest quals 1st
+### 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest quals 1st
 #### (Team : 1등)
 
 ### 2019.09.13~2019.09.17 TIMISOARACTF 2019 prequal 4th (all solved)
@@ -36,7 +35,7 @@ Nickname:slyfizz,rev4fun
 ### 2019.09.21 konyang univ k-ctf 2nd (300$)
 #### (Team : 앙종민띠)
 
-### 2019.10.26~2019.10.27 8th HolyShield CTF youth 4th (whole 10th)
+### 2019.10.26~2019.10.27 8th HolyShield CTF youth 4th
 #### (Team : Holy Moly Shield)
 
 ### 2019.10.31 [The hacking Championship junior final](https://news.unn.net/news/articleView.html?idxno=221717) 1st (1000$)
