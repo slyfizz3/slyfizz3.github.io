@@ -48,7 +48,7 @@ Nickname:slyfizz,rev4fun
 ### 2019.12.25 Christmas CTF 2nd (1000$) 
 #### (Team : Anti PPP)
 
-
+---
 # History(2020)
 
 ### 2020, [codegate2020 prequal junior](http://codegate.org/) 17th
@@ -60,7 +60,7 @@ Nickname:slyfizz,rev4fun
 ### 2020, ASIS CTF Quals, 2nd 
 #### (Team: DefenitelyZer0)
 
-
+---
 # Organizer
 
 ### 2020.06.05~2020.06.07 [2020 Defenit CTF](https://www.boannews.com/media/view.asp?idx=88856&page=1&kind=1)
