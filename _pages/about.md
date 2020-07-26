@@ -24,7 +24,8 @@ Nickname:slyfizz,rev4fun
 # History(2019)
 
 
-### 2019.05.09 School Hacking Contest 6th
+### 2019.05.09 School Hacking Contest Bronze prize
+#### (Team : 새우)
 
 ### 2019.08.31 2019 Sunrin High-School-hacker Hacking Contest quals 1st
 #### (Team : 1등)
