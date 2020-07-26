@@ -52,15 +52,15 @@ Nickname:slyfizz,rev4fun
 
 ### 2020, [codegate2020 junior](http://codegate.org/) finalist
 #### (Nickname: rev4fun)
-### 2020, zer0pts CTF 10th 
+### 2020, zer0pts CTF, 10th 
 #### (Team: Pray)
 ### 2020, m0leCon CTF Teaser, 3rd 
 #### (Team: AlPray)
 ### 2020, ASIS CTF Quals, 2nd 
 #### (Team: DefenitelyZer0)
-### 2020, TSG CTF , 2nd
+### 2020, TSG CTF, 2nd
 #### (Team: DefenitelyZer0)
-### 2020, Cybrics CTF , 2nd
+### 2020, Cybrics CTF, 2nd
 #### (Team: DefenitelyZer0)
 ---
 # Organizer
