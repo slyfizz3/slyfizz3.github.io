@@ -50,7 +50,7 @@ Nickname:slyfizz,rev4fun
 ---
 # History(2020)
 
-### 2020, [codegate2020 prequal junior](http://codegate.org/) 17th
+### 2020, [codegate2020 prequal junior](http://codegate.org/) finalist
 #### (Nickname: rev4fun)
 ### 2020, zer0pts CTF 10th 
 #### (Team: Pray)
