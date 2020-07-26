@@ -58,6 +58,8 @@ Nickname:slyfizz,rev4fun
 #### (Team: AlPray)
 ### 2020, ASIS CTF Quals, 2nd 
 #### (Team: DefenitelyZer0)
+### 2020, TSG CTF Quals, 2nd
+#### (Team: Defenitelyzer0)
 
 ---
 # Organizer
