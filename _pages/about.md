@@ -59,8 +59,9 @@ Nickname:slyfizz,rev4fun
 ### 2020, ASIS CTF Quals, 2nd 
 #### (Team: DefenitelyZer0)
 ### 2020, TSG CTF , 2nd
-#### (Team: Defenitelyzer0)
-
+#### (Team: DefenitelyZer0)
+### 2020, Cybrics CTF , 2nd
+#### (Team: DefenitelyZer0)
 ---
 # Organizer
 
