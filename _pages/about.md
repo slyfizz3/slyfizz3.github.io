@@ -63,6 +63,8 @@ Nickname:slyfizz,rev4fun
 #### (Team: DefenitelyZer0)
 ### 2020, Cybrics CTF, 2nd
 #### (Team: DefenitelyZer0)
+### 2020, HacktivityCon CTF, 5th 
+#### (Team: Defenit)
 ---
 # Organizer
 
