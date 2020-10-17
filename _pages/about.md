@@ -65,6 +65,8 @@ Nickname:slyfizz,rev4fun
 #### (Team: DefenitelyZer0)
 ### 2020, HacktivityCon CTF, 5th 
 #### (Team: Defenit)
+### 2020, WhiteHat Contest Junior prequal/final, 1st (10000$ , 국방부장관상)
+#### (Team: 군필여고생쟝)
 ---
 # Organizer
 
