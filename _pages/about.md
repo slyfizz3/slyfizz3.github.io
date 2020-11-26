@@ -67,6 +67,10 @@ Nickname:slyfizz,rev4fun
 #### (Team: Defenit)
 ### 2020, WhiteHat Contest Junior prequal/final, 1st (10000$ , 국방부장관상)
 #### (Team: 군필여고생쟝)
+### 2020 Jbu ctf , 1st (150$)
+#### (Team: 김종민 크리스마스 데이트 듀오 구함)
+### 2020 The hacking Championship junior final 1st (100$)
+#### (Team: 야필코고생쟝)
 ---
 # Organizer
 
