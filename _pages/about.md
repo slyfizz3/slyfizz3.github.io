@@ -69,7 +69,7 @@ Nickname:slyfizz,rev4fun
 #### (Team: 군필여고생쟝)
 ### 2020 Jbu ctf , 1st (150$)
 #### (Team: 김종민 크리스마스 데이트 듀오 구함)
-### 2020 The hacking Championship junior final 1st (100$)
+### 2020 The hacking Championship junior final 1st (1000$)
 #### (Team: 야필코고생쟝)
 ---
 # Organizer
