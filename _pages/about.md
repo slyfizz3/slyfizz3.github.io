@@ -72,6 +72,11 @@ Nickname:slyfizz,rev4fun
 ### 2020 The hacking Championship junior final 1st (1000$)
 #### (Team: 야필코고생쟝)
 ---
+# History(2021)
+
+### 2021 justCTF, 1st
+#### (Team: AlPray)
+
 # Organizer
 
 ### 2020.06.05~2020.06.07 [2020 Defenit CTF](https://www.boannews.com/media/view.asp?idx=88856&page=1&kind=1)
