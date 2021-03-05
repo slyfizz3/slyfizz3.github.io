@@ -6,13 +6,14 @@ author_profile: true
 ```
 Name:Jong min Kim(김종민) 
 
-Age:19
+Age:20
 
 Team:Defenit
 
-School:sunrin internet highschool 
+Korea Univ. Seoule (2021~ )
+graduated sunrin internet highschool (2018~2020)
 
-Kitri BOB 9th Vulnerability Analysis Track
+Kitri BOB 9th Vulnerability Analysis Track (2020)
 
 Language:C,Python,Java,Assembly
 
