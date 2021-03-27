@@ -13,7 +13,7 @@ Team:Defenit
 Korea Univ. Seoul (2021~ )
 graduated sunrin internet highschool (2018~2020)
 
-Kitri BOB 9th Vulnerability Analysis Track (2020)
+Kitri BOB 9th Vulnerability Analysis Track (2020.6~2021.3)
 
 Language:C,Python,Java,Assembly
 
