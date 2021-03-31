@@ -8,7 +8,7 @@ Name:Jong min Kim(김종민)
 
 Age:20
 
-Team:Cykor,Defenit
+Team:CyKor,Defenit
 
 Korea Univ. Seoul (2021~ )
 graduated sunrin internet highschool (2018~2020)
