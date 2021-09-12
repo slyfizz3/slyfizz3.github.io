@@ -78,7 +78,7 @@ Nickname:slyfizz,rev4fun
 ### 2021 justCTF, 1st
 #### (Team: AlPray)
 
-### 2021 whitehat contest general prequal 4th
+### 2021 whitehat contest General prequal 4th
 #### (Team: 화햇콘이었던사작경이었던화햇콘)
 
 # Organizer
