@@ -11,7 +11,7 @@ Age:20
 Team:CyKor,Defenit
 
 Korea Univ. Seoul (2021~ )
-graduated sunrin internet highschool (2018~2020)
+sunrin internet highschool (2018~2020)
 
 Kitri BOB 9th Vulnerability Analysis Track (2020.6~2021.3)
 
@@ -77,6 +77,9 @@ Nickname:slyfizz,rev4fun
 
 ### 2021 justCTF, 1st
 #### (Team: AlPray)
+
+### 2021 whitehat contest general prequal 4th
+#### (Team: 화햇콘이었던사작경이었던화햇콘)
 
 # Organizer
 
