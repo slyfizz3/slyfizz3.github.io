@@ -85,9 +85,9 @@ Nickname:slyfizz,rev4fun
 
 # (2021)
 
-### 선린 시스템해킹 기초 제1회 소수전공 MINI CTF 문제 출제 및 운영
+### 선린 리버싱 기초 제1회 소수전공 MINI CTF 문제 출제 및 운영
 #### [Github](https://github.com/slyfizz3/Make-challenges/tree/master/Sunrin_MiniCTF/1th_ctf)
-### 선린 시스템해킹 심화 제2회 소수전공 MINI CTF 문제 출제 및 운영 (Github)
+### 선린 리버싱 심화 제2회 소수전공 MINI CTF 문제 출제 및 운영
 #### [Github](https://github.com/slyfizz3/Make-challenges/tree/master/Sunrin_MiniCTF/2th_ctf)
 
 # (2020)
