@@ -88,14 +88,16 @@ Nickname:slyfizz,rev4fun
 
 # Organizer
 
-# (2021)
+# History(2021)
 
 ### 선린 리버싱 기초 제1회 소수전공 MINI CTF 문제 출제 및 운영
 #### [Github](https://github.com/slyfizz3/Make-challenges/tree/master/Sunrin_MiniCTF/1th_ctf)
 ### 선린 리버싱 심화 제2회 소수전공 MINI CTF 문제 출제 및 운영
 #### [Github](https://github.com/slyfizz3/Make-challenges/tree/master/Sunrin_MiniCTF/2th_ctf)
 
-# (2020)
+---
+
+# History(2020)
 
 ### 2020.06.05~2020.06.07 [2020 Defenit CTF](https://www.boannews.com/media/view.asp?idx=88856&page=1&kind=1)
 #### [GitHub](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF)
