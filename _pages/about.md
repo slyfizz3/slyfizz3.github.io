@@ -3,6 +3,7 @@ title: "About me"
 permalink: /about/
 author_profile: true
 ---
+
 ```
 Name:Jong min Kim(김종민) 
 
@@ -32,7 +33,9 @@ Nickname:slyfizz,rev4fun
 ### 2021 justCTF, 1st
 #### (Team: AlPray)
 
+
 ---
+
 
 # History(2020)
 
@@ -57,7 +60,9 @@ Nickname:slyfizz,rev4fun
 ### 2020, [codegate2020 junior](http://codegate.org/) finalist
 #### (Nickname: rev4fun)
 
+
 ---
+
 
 # History(2019)
 
@@ -96,13 +101,15 @@ Nickname:slyfizz,rev4fun
 #### [GitHub](https://github.com/slyfizz3/Make-challenges/tree/master/2020DefenitCTF)
 
 
+---
+
+
 # Speaker
 
 
 ### 【Sunrin Internet High School] 
 #### 리버싱 기초 소수전공
 #### 2021.07.08 ~ 07.20
-
 ### 【Sunrin Internet High School】
 #### 리버싱 심화 소수전공
 #### 2021.07.22 ~ 08.03
