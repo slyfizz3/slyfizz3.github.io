@@ -88,11 +88,11 @@ Nickname:slyfizz,rev4fun
 
 # Speaker
 
-###【Sunrin Internet High School] 
+### 【Sunrin Internet High School] 
 #### 리버싱 기초 소수전공
 #### 2021.07.08 ~ 07.20
 
-###【Sunrin Internet High School】
+### 【Sunrin Internet High School】
 #### 리버싱 심화 소수전공
 #### 2021.07.22 ~ 08.03
 
