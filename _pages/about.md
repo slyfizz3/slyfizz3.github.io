@@ -37,6 +37,9 @@ Nickname:slyfizz,rev4fun
 ### FIESTA 2021, 5th
 #### (Team: 채하늘팬클럽)
 
+### SSTF 2021, 5th
+#### (Team:CyKor)
+
 ### 2021 justCTF, 1st
 #### (Team: AlPray)
 
