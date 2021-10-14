@@ -31,7 +31,7 @@ Nickname:slyfizz,rev4fun
 ### 2021 whitehat contest General prequal/final, 4th
 #### (Team: 화햇콘이었던사작경이었던화햇콘)
 
-### CYBER CONFLICT EXERCISE 2021, 12
+### CYBER CONFLICT EXERCISE 2021, 12th
 #### (Team: 맥주500cc주세요 e모~)
 
 ### FIESTA 2021, 5th
