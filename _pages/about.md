@@ -28,8 +28,15 @@ Nickname:slyfizz,rev4fun
 
 # History(2021)
 
-### 2021 whitehat contest General prequal/final 4th
+### 2021 whitehat contest General prequal/final, 4th
 #### (Team: 화햇콘이었던사작경이었던화햇콘)
+
+### CYBER CONFLICT EXERCISE 2021, 12
+#### (Team: 맥주500cc주세요 e모~)
+
+### FIESTA 2021, 5th
+#### (Team: 채하늘팬클럽)
+
 ### 2021 justCTF, 1st
 #### (Team: AlPray)
 
@@ -39,7 +46,7 @@ Nickname:slyfizz,rev4fun
 
 # History(2020)
 
-### 2020 The hacking Championship junior final 1st (1000$)
+### 2020 The hacking Championship junior final, 1st (1000$)
 #### (Team: 야필코고생쟝)
 ### 2020 Jbu ctf , 1st (150$)
 #### (Team: 김종민 크리스마스 데이트 듀오 구함)
