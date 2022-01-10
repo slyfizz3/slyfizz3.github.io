@@ -7,7 +7,7 @@ author_profile: true
 ```
 Name:Jong min Kim(김종민) 
 
-Age:20
+Age:21
 
 Team:CyKor,Defenit,Alpray
 
@@ -18,13 +18,41 @@ Kitri BOB 9th Vulnerability Analysis Track (2020.6~2021.3)
 
 Korea Univ. Seoul (2021~ )
 
-Language:C,Python,Java,Assembly
-
 Main technology:Reverse Engineering
 
 Nickname:slyfizz,rev4fun 
 
 ```
+
+# Work & Project Experience
+
+#### 2020.09 ~ 2020.12
+#### 협업 프로그램 취약점 분석 (KITRI BoB 9th Team SCV)
+
+### 2021.05 ~ 2022.01
+#### 자동차 보호를 위한 AI기반 취약점 탐지기술 연구 [Soongsil Univ]
+
+### 2021.10 ~ 2021.11
+#### 선린인터넷고등학교 악성코드분석 멘토링 【KITRI CyberGuardians】
+
+#### 2021.10 ~ 2021.12
+#### 공공기관 Mobile Application System 모의해킹
+
+---
+
+# Speaker
+
+### 【KITRI CyberGuardians】 
+#### 선린인터넷고등학교 Reverse engineering(Reversing) 강의
+#### 2021.07.08 ~ 08.03 (62시간)
+
+### 【KITRI CyberGuardians】 
+#### 선린인터넷고등학교 Reverse engineering(Reversing) 강의
+#### 2022.01.03 ~ 01.12 (30시간)
+
+
+---
+
 
 # History(2021)
 
@@ -116,14 +144,6 @@ Nickname:slyfizz,rev4fun
 ---
 
 
-# Speaker
 
-
-### 【Sunrin Internet High School] 
-#### 리버싱 기초 소수전공
-#### 2021.07.08 ~ 07.20
-### 【Sunrin Internet High School】
-#### 리버싱 심화 소수전공
-#### 2021.07.22 ~ 08.03
 
 
