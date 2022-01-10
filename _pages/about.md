@@ -26,7 +26,7 @@ Nickname:slyfizz,rev4fun
 
 # Work & Project Experience
 
-#### 2020.09 ~ 2020.12
+### 2020.09 ~ 2020.12
 #### 협업 프로그램 취약점 분석 (KITRI BoB 9th Team SCV)
 
 ### 2021.05 ~ 2022.01
@@ -35,7 +35,7 @@ Nickname:slyfizz,rev4fun
 ### 2021.10 ~ 2021.11
 #### 선린인터넷고등학교 악성코드분석 멘토링 【KITRI CyberGuardians】
 
-#### 2021.10 ~ 2021.12
+### 2021.10 ~ 2021.12
 #### 공공기관 Mobile Application System 모의해킹
 
 ---
