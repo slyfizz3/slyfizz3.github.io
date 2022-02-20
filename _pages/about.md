@@ -9,7 +9,7 @@ Name:Jong min Kim(김종민)
 
 Age:21
 
-Team:CyKor,Defenit,Alpray
+Team:Defenit,Alpray,CyKor,Demon
 
 
 sunrin internet highschool (2018~2020)
