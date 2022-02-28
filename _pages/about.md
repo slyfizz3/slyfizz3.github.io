@@ -53,8 +53,17 @@ Nickname:slyfizz,rev4fun
 
 ---
 
+# History(2022)
+
+### Hayim ctf, 6th
+#### Team:(Demon)
+
+---
 
 # History(2021)
+
+### 2021 layer7ctf General, 2th
+#### (Nickname: only_rev)
 
 ### 2021 whitehat contest General prequal/final, 4th
 #### (Team: 화햇콘이었던사작경이었던화햇콘)
