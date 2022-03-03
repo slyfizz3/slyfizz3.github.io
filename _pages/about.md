@@ -56,10 +56,10 @@ Nickname:slyfizz,rev4fun
 # History(2022)
 
 ### codegate 2022 Univ.finalist (6th)
-#### Team:(psykor)
+#### (Team: psykor)
 
 ### Hayyim ctf, 6th
-#### Team:(Demon)
+#### (Team: Demon)
 
 ---
 
