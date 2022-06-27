@@ -55,10 +55,13 @@ Nickname:slyfizz,rev4fun
 
 # History(2022)
 
+### WAcon CTF 2022 General prequal, 7th
+#### (Team: 팀명암거나)
+
 ### zer0pts ctf 2022 3rd
 #### (Team: CyKor)
 
-### codegate 2022 Univ prequal (6th)
+### codegate 2022 Univ prequal 6th
 #### (Team: psykor)
 
 ### Hayyim ctf, 6th
@@ -71,11 +74,14 @@ Nickname:slyfizz,rev4fun
 ### 2021 layer7ctf General, 2th
 #### (Nickname: only_rev)
 
-### 2021 whitehat contest General prequal/final, 4th
+### 2021 whitehat contest General final, 4th
 #### (Team: 화햇콘이었던사작경이었던화햇콘)
 
 ### CYBER CONFLICT EXERCISE 2021, 12th
 #### (Team: 맥주500cc주세요 e모~)
+
+### 2021 whitehat contest General prequal, 4th
+#### (Team: 화햇콘이었던사작경이었던화햇콘)
 
 ### FIESTA 2021, 5th
 #### (Team: 채하늘팬클럽)
