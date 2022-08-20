@@ -55,13 +55,16 @@ Nickname:slyfizz,rev4fun
 
 # History(2022)
 
+### [전국 대학생 사이버보안 경진대회(Hacktheon), 2th](http://www.ccnnews.co.kr/news/articleView.html?idxno=265932)
+#### (Team: CyKor)
+
 ### WAcon CTF 2022 General prequal, 7th
 #### (Team: 팀명암거나)
 
 ### zer0pts ctf 2022 3rd
 #### (Team: CyKor)
 
-### codegate 2022 Univ prequal 6th
+### [codegate 2022 Univ prequal 6th](https://www.dailysecu.com/news/articleView.html?idxno=134690)
 #### (Team: psykor)
 
 ### Hayyim ctf, 6th
