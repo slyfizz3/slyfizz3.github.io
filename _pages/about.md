@@ -50,6 +50,10 @@ Nickname:slyfizz,rev4fun
 #### 선린인터넷고등학교 Reverse engineering(Reversing) 강의
 #### 2022.01.03 ~ 01.12 (30시간)
 
+### 【KITRI CyberGuardians】 
+#### 선린인터넷고등학교 Reverse engineering(Reversing) 강의
+#### 2022.07.06 ~ 07.19 (30시간)
+
 
 ---
 
