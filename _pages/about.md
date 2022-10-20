@@ -59,6 +59,12 @@ Nickname:slyfizz,rev4fun
 
 # History(2022)
 
+### 2021 whitehat contest General prequal, 8th
+#### (Team: 팀명암거나) 
+
+### CCE 2022 GOV prequal, 1th 
+#### (Team: 블루코드)
+
 ### SSTF 2022, 4th
 #### (Team:CyKor)
 
