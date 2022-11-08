@@ -59,6 +59,12 @@ Nickname:slyfizz,rev4fun
 
 # History(2022)
 
+### codegate 2022 Univ fianl, 5th
+#### (Team: psykor)
+
+### CYBER CONFLICT EXERCISE 2022 GOV final, 3rd
+#### (Team: 블루코드)
+
 ### 2022 whitehat contest General prequal, 8th
 #### (Team: 팀명암거나) 
 
