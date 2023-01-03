@@ -64,7 +64,7 @@ Nickname:slyfizz,rev4fun
 # History(2022)
 
 ### 2022 Christmas ctf , 3rd (1000$)
-#### (Team: sechack여친구함)
+#### (Team: Sechack여친구함)
 
 ### codegate 2022 Univ fianl, 5th
 #### (Team: psykor)
