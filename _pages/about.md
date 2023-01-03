@@ -7,7 +7,7 @@ author_profile: true
 ```
 Name:Jong min Kim(김종민) 
 
-Age:21
+Age:22
 
 Team:Defenit,Alpray,CyKor,Demon
 
@@ -54,15 +54,22 @@ Nickname:slyfizz,rev4fun
 #### 선린인터넷고등학교 Reverse engineering(Reversing) 강의
 #### 2022.07.06 ~ 07.19 (30시간)
 
+### 【KITRI CyberGuardians】 
+#### 선린인터넷고등학교 Reverse engineering(Reversing) 강의
+#### 2022.12.23 ~ 2023.01.03 (30시간)
+
 
 ---
 
 # History(2022)
 
+### 2022 Christmas ctf , 3rd (1000$)
+#### (Team: sechack여친구함)
+
 ### codegate 2022 Univ fianl, 5th
 #### (Team: psykor)
 
-### CYBER CONFLICT EXERCISE 2022 GOV final, 3rd
+### CYBER CONFLICT EXERCISE 2022 GOV final, 3rd (3000$)
 #### (Team: 블루코드)
 
 ### 2022 whitehat contest General prequal, 8th
