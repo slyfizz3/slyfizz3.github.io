@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-welcome to my notion!![https://slyfizz.notion.site/slyfizz-s-rev-for-fun-01a89e24864744b486e16521b53949d9]
+[welcome to my notion!!](https://slyfizz.notion.site/slyfizz-s-rev-for-fun-01a89e24864744b486e16521b53949d9)
 
 ```
 Name:Jong min Kim(김종민) 
