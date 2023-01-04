@@ -74,6 +74,9 @@ Nickname:slyfizz,rev4fun
 ### CYBER CONFLICT EXERCISE 2022 GOV final, 3rd (3000$)
 #### (Team: 블루코드)
 
+### KOWORLD 해킹방어대회 4위 (3000$) 
+#### (Nickname: slyfizz)
+
 ### 2022 whitehat contest General prequal, 8th
 #### (Team: 팀명암거나) 
 
